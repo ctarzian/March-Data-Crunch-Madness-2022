@@ -1,0 +1,2279 @@
+game_id,team1_teamname,team2_teamname,prob
+2022-1124-1246,Baylor,Kentucky,0.755
+2022-1124-1345,Baylor,Purdue,0.625
+2022-1124-1417,Baylor,UCLA,0.65
+2022-1124-1388,Baylor,St Mary's CA,0.865
+2022-1124-1400,Baylor,Texas,0.9
+2022-1124-1293,Baylor,Murray St,0.97
+2022-1124-1314,Baylor,North Carolina,0.955
+2022-1124-1266,Baylor,Marquette,0.995
+2022-1124-1362,Baylor,San Francisco,0.895
+2022-1124-1439,Baylor,Virginia Tech,0.955
+2022-1124-1461,Baylor,Wyoming,1.0
+2022-1124-1231,Baylor,Indiana,0.99
+2022-1124-1103,Baylor,Akron,1.0
+2022-1124-1463,Baylor,Yale,1.0
+2022-1124-1389,Baylor,St Peter's,1.0
+2022-1124-1313,Baylor,Norfolk St,1.0
+2022-1124-1242,Baylor,Kansas,0.59
+2022-1124-1120,Baylor,Auburn,0.715
+2022-1124-1458,Baylor,Wisconsin,0.795
+2022-1124-1344,Baylor,Providence,1.0
+2022-1124-1234,Baylor,Iowa,0.645
+2022-1124-1261,Baylor,LSU,0.755
+2022-1124-1425,Baylor,USC,1.0
+2022-1124-1361,Baylor,San Diego St,0.695
+2022-1124-1166,Baylor,Creighton,0.995
+2022-1124-1274,Baylor,Miami FL,0.97
+2022-1124-1235,Baylor,Iowa St,0.94
+2022-1124-1350,Baylor,Richmond,0.99
+2022-1124-1355,Baylor,S Dakota St,0.98
+2022-1124-1159,Baylor,Colgate,1.0
+2022-1124-1240,Baylor,Jacksonville St,1.0
+2022-1124-1411,Baylor,TX Southern,1.0
+2022-1124-1394,Baylor,TAM C. Christi,0.995
+2022-1124-1112,Baylor,Arizona,0.805
+2022-1124-1437,Baylor,Villanova,0.765
+2022-1124-1397,Baylor,Tennessee,0.835
+2022-1124-1228,Baylor,Illinois,0.895
+2022-1124-1222,Baylor,Houston,0.8
+2022-1124-1161,Baylor,Colorado St,0.95
+2022-1124-1326,Baylor,Ohio St,0.915
+2022-1124-1371,Baylor,Seton Hall,0.995
+2022-1124-1395,Baylor,TCU,0.995
+2022-1124-1260,Baylor,Loyola-Chicago,0.95
+2022-1124-1276,Baylor,Michigan,0.95
+2022-1124-1412,Baylor,UAB,1.0
+2022-1124-1151,Baylor,Chattanooga,0.995
+2022-1124-1255,Baylor,Longwood,1.0
+2022-1124-1174,Baylor,Delaware,0.995
+2022-1124-1460,Baylor,Wright St,1.0
+2022-1124-1136,Baylor,Bryant,0.985
+2022-1124-1211,Baylor,Gonzaga,0.74
+2022-1124-1181,Baylor,Duke,0.57
+2022-1124-1403,Baylor,Texas Tech,0.79
+2022-1124-1116,Baylor,Arkansas,0.875
+2022-1124-1163,Baylor,Connecticut,0.9
+2022-1124-1104,Baylor,Alabama,0.975
+2022-1124-1277,Baylor,Michigan St,1.0
+2022-1124-1129,Baylor,Boise St,0.97
+2022-1124-1272,Baylor,Memphis,0.88
+2022-1124-1172,Baylor,Davidson,0.97
+2022-1124-1353,Baylor,Rutgers,0.995
+2022-1124-1323,Baylor,Notre Dame,1.0
+2022-1124-1308,Baylor,New Mexico St,1.0
+2022-1124-1436,Baylor,Vermont,1.0
+2022-1124-1286,Baylor,Montana St,1.0
+2022-1124-1168,Baylor,CS Fullerton,1.0
+2022-1124-1209,Baylor,Georgia St,0.995
+2022-1246-1345,Kentucky,Purdue,0.64
+2022-1246-1417,Kentucky,UCLA,0.835
+2022-1246-1388,Kentucky,St Mary's CA,0.8
+2022-1246-1400,Kentucky,Texas,0.88
+2022-1246-1293,Kentucky,Murray St,0.99
+2022-1246-1314,Kentucky,North Carolina,0.995
+2022-1246-1266,Kentucky,Marquette,0.995
+2022-1246-1362,Kentucky,San Francisco,0.855
+2022-1246-1439,Kentucky,Virginia Tech,0.945
+2022-1246-1461,Kentucky,Wyoming,0.995
+2022-1246-1231,Kentucky,Indiana,0.915
+2022-1246-1103,Kentucky,Akron,1.0
+2022-1246-1463,Kentucky,Yale,1.0
+2022-1246-1389,Kentucky,St Peter's,0.985
+2022-1246-1313,Kentucky,Norfolk St,0.995
+2022-1246-1242,Kentucky,Kansas,0.81
+2022-1246-1120,Kentucky,Auburn,0.745
+2022-1246-1458,Kentucky,Wisconsin,0.945
+2022-1246-1344,Kentucky,Providence,1.0
+2022-1246-1234,Kentucky,Iowa,0.64
+2022-1246-1261,Kentucky,LSU,0.705
+2022-1246-1425,Kentucky,USC,0.995
+2022-1246-1361,Kentucky,San Diego St,0.68
+2022-1246-1166,Kentucky,Creighton,0.905
+2022-1246-1274,Kentucky,Miami FL,0.995
+2022-1246-1235,Kentucky,Iowa St,0.875
+2022-1246-1350,Kentucky,Richmond,0.985
+2022-1246-1355,Kentucky,S Dakota St,0.99
+2022-1246-1159,Kentucky,Colgate,1.0
+2022-1246-1240,Kentucky,Jacksonville St,1.0
+2022-1246-1411,Kentucky,TX Southern,0.995
+2022-1246-1394,Kentucky,TAM C. Christi,1.0
+2022-1246-1112,Kentucky,Arizona,0.755
+2022-1246-1437,Kentucky,Villanova,0.84
+2022-1246-1397,Kentucky,Tennessee,0.79
+2022-1246-1228,Kentucky,Illinois,0.825
+2022-1246-1222,Kentucky,Houston,0.765
+2022-1246-1161,Kentucky,Colorado St,0.975
+2022-1246-1326,Kentucky,Ohio St,0.95
+2022-1246-1371,Kentucky,Seton Hall,0.95
+2022-1246-1395,Kentucky,TCU,0.95
+2022-1246-1260,Kentucky,Loyola-Chicago,0.9
+2022-1246-1276,Kentucky,Michigan,0.96
+2022-1246-1412,Kentucky,UAB,1.0
+2022-1246-1151,Kentucky,Chattanooga,0.995
+2022-1246-1255,Kentucky,Longwood,1.0
+2022-1246-1174,Kentucky,Delaware,0.995
+2022-1246-1460,Kentucky,Wright St,1.0
+2022-1246-1136,Kentucky,Bryant,0.98
+2022-1246-1211,Kentucky,Gonzaga,0.715
+2022-1246-1181,Kentucky,Duke,0.585
+2022-1246-1403,Kentucky,Texas Tech,0.785
+2022-1246-1116,Kentucky,Arkansas,0.88
+2022-1246-1163,Kentucky,Connecticut,0.885
+2022-1246-1104,Kentucky,Alabama,0.97
+2022-1246-1277,Kentucky,Michigan St,0.98
+2022-1246-1129,Kentucky,Boise St,0.915
+2022-1246-1272,Kentucky,Memphis,0.755
+2022-1246-1172,Kentucky,Davidson,0.975
+2022-1246-1353,Kentucky,Rutgers,0.995
+2022-1246-1323,Kentucky,Notre Dame,1.0
+2022-1246-1308,Kentucky,New Mexico St,1.0
+2022-1246-1436,Kentucky,Vermont,1.0
+2022-1246-1286,Kentucky,Montana St,1.0
+2022-1246-1168,Kentucky,CS Fullerton,1.0
+2022-1246-1209,Kentucky,Georgia St,0.995
+2022-1345-1417,Purdue,UCLA,0.48
+2022-1345-1388,Purdue,St Mary's CA,0.74
+2022-1345-1400,Purdue,Texas,0.83
+2022-1345-1293,Purdue,Murray St,0.84
+2022-1345-1314,Purdue,North Carolina,0.93
+2022-1345-1266,Purdue,Marquette,0.905
+2022-1345-1362,Purdue,San Francisco,0.71
+2022-1345-1439,Purdue,Virginia Tech,0.925
+2022-1345-1461,Purdue,Wyoming,0.93
+2022-1345-1231,Purdue,Indiana,0.755
+2022-1345-1103,Purdue,Akron,1.0
+2022-1345-1463,Purdue,Yale,0.99
+2022-1345-1389,Purdue,St Peter's,0.915
+2022-1345-1313,Purdue,Norfolk St,0.995
+2022-1345-1242,Purdue,Kansas,0.665
+2022-1345-1120,Purdue,Auburn,0.625
+2022-1345-1458,Purdue,Wisconsin,0.62
+2022-1345-1344,Purdue,Providence,0.94
+2022-1345-1234,Purdue,Iowa,0.56
+2022-1345-1261,Purdue,LSU,0.655
+2022-1345-1425,Purdue,USC,0.91
+2022-1345-1361,Purdue,San Diego St,0.68
+2022-1345-1166,Purdue,Creighton,0.765
+2022-1345-1274,Purdue,Miami FL,0.945
+2022-1345-1235,Purdue,Iowa St,0.665
+2022-1345-1350,Purdue,Richmond,0.98
+2022-1345-1355,Purdue,S Dakota St,0.99
+2022-1345-1159,Purdue,Colgate,1.0
+2022-1345-1240,Purdue,Jacksonville St,0.995
+2022-1345-1411,Purdue,TX Southern,0.975
+2022-1345-1394,Purdue,TAM C. Christi,0.98
+2022-1345-1112,Purdue,Arizona,0.75
+2022-1345-1437,Purdue,Villanova,0.79
+2022-1345-1397,Purdue,Tennessee,0.415
+2022-1345-1228,Purdue,Illinois,0.74
+2022-1345-1222,Purdue,Houston,0.545
+2022-1345-1161,Purdue,Colorado St,0.88
+2022-1345-1326,Purdue,Ohio St,0.925
+2022-1345-1371,Purdue,Seton Hall,0.775
+2022-1345-1395,Purdue,TCU,0.805
+2022-1345-1260,Purdue,Loyola-Chicago,0.81
+2022-1345-1276,Purdue,Michigan,0.92
+2022-1345-1412,Purdue,UAB,0.94
+2022-1345-1151,Purdue,Chattanooga,0.98
+2022-1345-1255,Purdue,Longwood,1.0
+2022-1345-1174,Purdue,Delaware,1.0
+2022-1345-1460,Purdue,Wright St,0.995
+2022-1345-1136,Purdue,Bryant,0.975
+2022-1345-1211,Purdue,Gonzaga,0.615
+2022-1345-1181,Purdue,Duke,0.68
+2022-1345-1403,Purdue,Texas Tech,0.465
+2022-1345-1116,Purdue,Arkansas,0.73
+2022-1345-1163,Purdue,Connecticut,0.82
+2022-1345-1104,Purdue,Alabama,0.91
+2022-1345-1277,Purdue,Michigan St,0.915
+2022-1345-1129,Purdue,Boise St,0.76
+2022-1345-1272,Purdue,Memphis,0.695
+2022-1345-1172,Purdue,Davidson,0.955
+2022-1345-1353,Purdue,Rutgers,0.925
+2022-1345-1323,Purdue,Notre Dame,0.93
+2022-1345-1308,Purdue,New Mexico St,0.965
+2022-1345-1436,Purdue,Vermont,0.92
+2022-1345-1286,Purdue,Montana St,0.995
+2022-1345-1168,Purdue,CS Fullerton,0.995
+2022-1345-1209,Purdue,Georgia St,0.98
+2022-1417-1388,UCLA,St Mary's CA,0.85
+2022-1417-1400,UCLA,Texas,0.63
+2022-1417-1293,UCLA,Murray St,0.915
+2022-1417-1314,UCLA,North Carolina,0.955
+2022-1417-1266,UCLA,Marquette,0.88
+2022-1417-1362,UCLA,San Francisco,0.72
+2022-1417-1439,UCLA,Virginia Tech,0.88
+2022-1417-1461,UCLA,Wyoming,0.995
+2022-1417-1231,UCLA,Indiana,0.925
+2022-1417-1103,UCLA,Akron,1.0
+2022-1417-1463,UCLA,Yale,0.945
+2022-1417-1389,UCLA,St Peter's,0.905
+2022-1417-1313,UCLA,Norfolk St,0.945
+2022-1417-1242,UCLA,Kansas,0.61
+2022-1417-1120,UCLA,Auburn,0.83
+2022-1417-1458,UCLA,Wisconsin,0.96
+2022-1417-1344,UCLA,Providence,0.98
+2022-1417-1234,UCLA,Iowa,0.7
+2022-1417-1261,UCLA,LSU,0.575
+2022-1417-1425,UCLA,USC,0.955
+2022-1417-1361,UCLA,San Diego St,0.61
+2022-1417-1166,UCLA,Creighton,0.825
+2022-1417-1274,UCLA,Miami FL,0.98
+2022-1417-1235,UCLA,Iowa St,0.805
+2022-1417-1350,UCLA,Richmond,0.995
+2022-1417-1355,UCLA,S Dakota St,0.98
+2022-1417-1159,UCLA,Colgate,1.0
+2022-1417-1240,UCLA,Jacksonville St,0.94
+2022-1417-1411,UCLA,TX Southern,0.945
+2022-1417-1394,UCLA,TAM C. Christi,0.965
+2022-1417-1112,UCLA,Arizona,0.725
+2022-1417-1437,UCLA,Villanova,0.65
+2022-1417-1397,UCLA,Tennessee,0.53
+2022-1417-1228,UCLA,Illinois,0.705
+2022-1417-1222,UCLA,Houston,0.675
+2022-1417-1161,UCLA,Colorado St,0.945
+2022-1417-1326,UCLA,Ohio St,0.895
+2022-1417-1371,UCLA,Seton Hall,0.945
+2022-1417-1395,UCLA,TCU,0.76
+2022-1417-1260,UCLA,Loyola-Chicago,0.695
+2022-1417-1276,UCLA,Michigan,0.935
+2022-1417-1412,UCLA,UAB,0.98
+2022-1417-1151,UCLA,Chattanooga,1.0
+2022-1417-1255,UCLA,Longwood,1.0
+2022-1417-1174,UCLA,Delaware,0.945
+2022-1417-1460,UCLA,Wright St,1.0
+2022-1417-1136,UCLA,Bryant,0.945
+2022-1417-1211,UCLA,Gonzaga,0.735
+2022-1417-1181,UCLA,Duke,0.605
+2022-1417-1403,UCLA,Texas Tech,0.49
+2022-1417-1116,UCLA,Arkansas,0.87
+2022-1417-1163,UCLA,Connecticut,0.84
+2022-1417-1104,UCLA,Alabama,0.7
+2022-1417-1277,UCLA,Michigan St,0.76
+2022-1417-1129,UCLA,Boise St,0.765
+2022-1417-1272,UCLA,Memphis,0.735
+2022-1417-1172,UCLA,Davidson,0.945
+2022-1417-1353,UCLA,Rutgers,0.995
+2022-1417-1323,UCLA,Notre Dame,0.99
+2022-1417-1308,UCLA,New Mexico St,0.885
+2022-1417-1436,UCLA,Vermont,0.99
+2022-1417-1286,UCLA,Montana St,0.955
+2022-1417-1168,UCLA,CS Fullerton,0.96
+2022-1417-1209,UCLA,Georgia St,1.0
+2022-1388-1400,St Mary's CA,Texas,0.535
+2022-1388-1293,St Mary's CA,Murray St,0.845
+2022-1388-1314,St Mary's CA,North Carolina,0.875
+2022-1388-1266,St Mary's CA,Marquette,0.885
+2022-1388-1362,St Mary's CA,San Francisco,0.87
+2022-1388-1439,St Mary's CA,Virginia Tech,0.63
+2022-1388-1461,St Mary's CA,Wyoming,0.88
+2022-1388-1231,St Mary's CA,Indiana,0.88
+2022-1388-1103,St Mary's CA,Akron,0.995
+2022-1388-1463,St Mary's CA,Yale,1.0
+2022-1388-1389,St Mary's CA,St Peter's,1.0
+2022-1388-1313,St Mary's CA,Norfolk St,0.995
+2022-1388-1242,St Mary's CA,Kansas,0.79
+2022-1388-1120,St Mary's CA,Auburn,0.735
+2022-1388-1458,St Mary's CA,Wisconsin,0.695
+2022-1388-1344,St Mary's CA,Providence,0.85
+2022-1388-1234,St Mary's CA,Iowa,0.805
+2022-1388-1261,St Mary's CA,LSU,0.705
+2022-1388-1425,St Mary's CA,USC,0.865
+2022-1388-1361,St Mary's CA,San Diego St,0.78
+2022-1388-1166,St Mary's CA,Creighton,0.91
+2022-1388-1274,St Mary's CA,Miami FL,0.845
+2022-1388-1235,St Mary's CA,Iowa St,0.895
+2022-1388-1350,St Mary's CA,Richmond,0.945
+2022-1388-1355,St Mary's CA,S Dakota St,0.88
+2022-1388-1159,St Mary's CA,Colgate,0.965
+2022-1388-1240,St Mary's CA,Jacksonville St,0.985
+2022-1388-1411,St Mary's CA,TX Southern,0.99
+2022-1388-1394,St Mary's CA,TAM C. Christi,0.975
+2022-1388-1112,St Mary's CA,Arizona,0.79
+2022-1388-1437,St Mary's CA,Villanova,0.675
+2022-1388-1397,St Mary's CA,Tennessee,0.625
+2022-1388-1228,St Mary's CA,Illinois,0.655
+2022-1388-1222,St Mary's CA,Houston,0.655
+2022-1388-1161,St Mary's CA,Colorado St,0.775
+2022-1388-1326,St Mary's CA,Ohio St,0.65
+2022-1388-1371,St Mary's CA,Seton Hall,0.88
+2022-1388-1395,St Mary's CA,TCU,0.83
+2022-1388-1260,St Mary's CA,Loyola-Chicago,0.78
+2022-1388-1276,St Mary's CA,Michigan,0.775
+2022-1388-1412,St Mary's CA,UAB,0.935
+2022-1388-1151,St Mary's CA,Chattanooga,0.925
+2022-1388-1255,St Mary's CA,Longwood,0.99
+2022-1388-1174,St Mary's CA,Delaware,0.97
+2022-1388-1460,St Mary's CA,Wright St,0.975
+2022-1388-1136,St Mary's CA,Bryant,0.985
+2022-1388-1211,St Mary's CA,Gonzaga,0.68
+2022-1388-1181,St Mary's CA,Duke,0.8
+2022-1388-1403,St Mary's CA,Texas Tech,0.585
+2022-1388-1116,St Mary's CA,Arkansas,0.835
+2022-1388-1163,St Mary's CA,Connecticut,0.61
+2022-1388-1104,St Mary's CA,Alabama,0.695
+2022-1388-1277,St Mary's CA,Michigan St,0.89
+2022-1388-1129,St Mary's CA,Boise St,0.81
+2022-1388-1272,St Mary's CA,Memphis,0.6
+2022-1388-1172,St Mary's CA,Davidson,0.68
+2022-1388-1353,St Mary's CA,Rutgers,0.96
+2022-1388-1323,St Mary's CA,Notre Dame,0.895
+2022-1388-1308,St Mary's CA,New Mexico St,0.955
+2022-1388-1436,St Mary's CA,Vermont,0.9
+2022-1388-1286,St Mary's CA,Montana St,0.995
+2022-1388-1168,St Mary's CA,CS Fullerton,1.0
+2022-1388-1209,St Mary's CA,Georgia St,1.0
+2022-1400-1293,Texas,Murray St,0.925
+2022-1400-1314,Texas,North Carolina,0.91
+2022-1400-1266,Texas,Marquette,0.91
+2022-1400-1362,Texas,San Francisco,0.71
+2022-1400-1439,Texas,Virginia Tech,0.725
+2022-1400-1461,Texas,Wyoming,0.955
+2022-1400-1231,Texas,Indiana,0.935
+2022-1400-1103,Texas,Akron,0.995
+2022-1400-1463,Texas,Yale,1.0
+2022-1400-1389,Texas,St Peter's,0.995
+2022-1400-1313,Texas,Norfolk St,1.0
+2022-1400-1242,Texas,Kansas,0.805
+2022-1400-1120,Texas,Auburn,0.665
+2022-1400-1458,Texas,Wisconsin,0.735
+2022-1400-1344,Texas,Providence,0.85
+2022-1400-1234,Texas,Iowa,0.805
+2022-1400-1261,Texas,LSU,0.785
+2022-1400-1425,Texas,USC,0.91
+2022-1400-1361,Texas,San Diego St,0.76
+2022-1400-1166,Texas,Creighton,0.97
+2022-1400-1274,Texas,Miami FL,0.96
+2022-1400-1235,Texas,Iowa St,0.89
+2022-1400-1350,Texas,Richmond,0.98
+2022-1400-1355,Texas,S Dakota St,0.92
+2022-1400-1159,Texas,Colgate,1.0
+2022-1400-1240,Texas,Jacksonville St,0.995
+2022-1400-1411,Texas,TX Southern,0.98
+2022-1400-1394,Texas,TAM C. Christi,0.97
+2022-1400-1112,Texas,Arizona,0.77
+2022-1400-1437,Texas,Villanova,0.695
+2022-1400-1397,Texas,Tennessee,0.675
+2022-1400-1228,Texas,Illinois,0.81
+2022-1400-1222,Texas,Houston,0.7
+2022-1400-1161,Texas,Colorado St,0.885
+2022-1400-1326,Texas,Ohio St,0.77
+2022-1400-1371,Texas,Seton Hall,0.935
+2022-1400-1395,Texas,TCU,0.945
+2022-1400-1260,Texas,Loyola-Chicago,0.73
+2022-1400-1276,Texas,Michigan,0.88
+2022-1400-1412,Texas,UAB,0.935
+2022-1400-1151,Texas,Chattanooga,0.965
+2022-1400-1255,Texas,Longwood,0.995
+2022-1400-1174,Texas,Delaware,1.0
+2022-1400-1460,Texas,Wright St,0.985
+2022-1400-1136,Texas,Bryant,1.0
+2022-1400-1211,Texas,Gonzaga,0.66
+2022-1400-1181,Texas,Duke,0.86
+2022-1400-1403,Texas,Texas Tech,0.615
+2022-1400-1116,Texas,Arkansas,0.78
+2022-1400-1163,Texas,Connecticut,0.755
+2022-1400-1104,Texas,Alabama,0.76
+2022-1400-1277,Texas,Michigan St,0.94
+2022-1400-1129,Texas,Boise St,0.875
+2022-1400-1272,Texas,Memphis,0.825
+2022-1400-1172,Texas,Davidson,0.825
+2022-1400-1353,Texas,Rutgers,0.98
+2022-1400-1323,Texas,Notre Dame,0.89
+2022-1400-1308,Texas,New Mexico St,0.995
+2022-1400-1436,Texas,Vermont,0.93
+2022-1400-1286,Texas,Montana St,1.0
+2022-1400-1168,Texas,CS Fullerton,1.0
+2022-1400-1209,Texas,Georgia St,0.99
+2022-1293-1314,Murray St,North Carolina,0.685
+2022-1293-1266,Murray St,Marquette,0.705
+2022-1293-1362,Murray St,San Francisco,0.52
+2022-1293-1439,Murray St,Virginia Tech,0.47
+2022-1293-1461,Murray St,Wyoming,0.725
+2022-1293-1231,Murray St,Indiana,0.42
+2022-1293-1103,Murray St,Akron,0.97
+2022-1293-1463,Murray St,Yale,0.975
+2022-1293-1389,Murray St,St Peter's,0.975
+2022-1293-1313,Murray St,Norfolk St,0.965
+2022-1293-1242,Murray St,Kansas,0.755
+2022-1293-1120,Murray St,Auburn,0.785
+2022-1293-1458,Murray St,Wisconsin,0.405
+2022-1293-1344,Murray St,Providence,0.5
+2022-1293-1234,Murray St,Iowa,0.725
+2022-1293-1261,Murray St,LSU,0.51
+2022-1293-1425,Murray St,USC,0.445
+2022-1293-1361,Murray St,San Diego St,0.39
+2022-1293-1166,Murray St,Creighton,0.435
+2022-1293-1274,Murray St,Miami FL,0.78
+2022-1293-1235,Murray St,Iowa St,0.415
+2022-1293-1350,Murray St,Richmond,0.845
+2022-1293-1355,Murray St,S Dakota St,0.835
+2022-1293-1159,Murray St,Colgate,0.975
+2022-1293-1240,Murray St,Jacksonville St,0.97
+2022-1293-1411,Murray St,TX Southern,0.96
+2022-1293-1394,Murray St,TAM C. Christi,0.96
+2022-1293-1112,Murray St,Arizona,0.775
+2022-1293-1437,Murray St,Villanova,0.76
+2022-1293-1397,Murray St,Tennessee,0.56
+2022-1293-1228,Murray St,Illinois,0.45
+2022-1293-1222,Murray St,Houston,0.82
+2022-1293-1161,Murray St,Colorado St,0.56
+2022-1293-1326,Murray St,Ohio St,0.455
+2022-1293-1371,Murray St,Seton Hall,0.46
+2022-1293-1395,Murray St,TCU,0.43
+2022-1293-1260,Murray St,Loyola-Chicago,0.31
+2022-1293-1276,Murray St,Michigan,0.39
+2022-1293-1412,Murray St,UAB,0.635
+2022-1293-1151,Murray St,Chattanooga,0.92
+2022-1293-1255,Murray St,Longwood,0.985
+2022-1293-1174,Murray St,Delaware,0.95
+2022-1293-1460,Murray St,Wright St,0.955
+2022-1293-1136,Murray St,Bryant,0.98
+2022-1293-1211,Murray St,Gonzaga,0.63
+2022-1293-1181,Murray St,Duke,0.755
+2022-1293-1403,Murray St,Texas Tech,0.54
+2022-1293-1116,Murray St,Arkansas,0.72
+2022-1293-1163,Murray St,Connecticut,0.41
+2022-1293-1104,Murray St,Alabama,0.69
+2022-1293-1277,Murray St,Michigan St,0.46
+2022-1293-1129,Murray St,Boise St,0.455
+2022-1293-1272,Murray St,Memphis,0.455
+2022-1293-1172,Murray St,Davidson,0.52
+2022-1293-1353,Murray St,Rutgers,0.79
+2022-1293-1323,Murray St,Notre Dame,0.51
+2022-1293-1308,Murray St,New Mexico St,0.865
+2022-1293-1436,Murray St,Vermont,0.805
+2022-1293-1286,Murray St,Montana St,0.96
+2022-1293-1168,Murray St,CS Fullerton,0.965
+2022-1293-1209,Murray St,Georgia St,0.98
+2022-1314-1266,North Carolina,Marquette,0.685
+2022-1314-1362,North Carolina,San Francisco,0.435
+2022-1314-1439,North Carolina,Virginia Tech,0.62
+2022-1314-1461,North Carolina,Wyoming,0.865
+2022-1314-1231,North Carolina,Indiana,0.655
+2022-1314-1103,North Carolina,Akron,0.975
+2022-1314-1463,North Carolina,Yale,0.98
+2022-1314-1389,North Carolina,St Peter's,0.97
+2022-1314-1313,North Carolina,Norfolk St,0.965
+2022-1314-1242,North Carolina,Kansas,0.835
+2022-1314-1120,North Carolina,Auburn,0.67
+2022-1314-1458,North Carolina,Wisconsin,0.555
+2022-1314-1344,North Carolina,Providence,0.9
+2022-1314-1234,North Carolina,Iowa,0.8
+2022-1314-1261,North Carolina,LSU,0.56
+2022-1314-1425,North Carolina,USC,0.76
+2022-1314-1361,North Carolina,San Diego St,0.63
+2022-1314-1166,North Carolina,Creighton,0.725
+2022-1314-1274,North Carolina,Miami FL,0.765
+2022-1314-1235,North Carolina,Iowa St,0.76
+2022-1314-1350,North Carolina,Richmond,0.88
+2022-1314-1355,North Carolina,S Dakota St,0.79
+2022-1314-1159,North Carolina,Colgate,0.965
+2022-1314-1240,North Carolina,Jacksonville St,0.95
+2022-1314-1411,North Carolina,TX Southern,0.965
+2022-1314-1394,North Carolina,TAM C. Christi,0.95
+2022-1314-1112,North Carolina,Arizona,0.825
+2022-1314-1437,North Carolina,Villanova,0.81
+2022-1314-1397,North Carolina,Tennessee,0.655
+2022-1314-1228,North Carolina,Illinois,0.58
+2022-1314-1222,North Carolina,Houston,0.745
+2022-1314-1161,North Carolina,Colorado St,0.815
+2022-1314-1326,North Carolina,Ohio St,0.755
+2022-1314-1371,North Carolina,Seton Hall,0.585
+2022-1314-1395,North Carolina,TCU,0.725
+2022-1314-1260,North Carolina,Loyola-Chicago,0.565
+2022-1314-1276,North Carolina,Michigan,0.65
+2022-1314-1412,North Carolina,UAB,0.735
+2022-1314-1151,North Carolina,Chattanooga,0.935
+2022-1314-1255,North Carolina,Longwood,0.965
+2022-1314-1174,North Carolina,Delaware,0.945
+2022-1314-1460,North Carolina,Wright St,0.96
+2022-1314-1136,North Carolina,Bryant,0.965
+2022-1314-1211,North Carolina,Gonzaga,0.67
+2022-1314-1181,North Carolina,Duke,0.76
+2022-1314-1403,North Carolina,Texas Tech,0.585
+2022-1314-1116,North Carolina,Arkansas,0.37
+2022-1314-1163,North Carolina,Connecticut,0.635
+2022-1314-1104,North Carolina,Alabama,0.445
+2022-1314-1277,North Carolina,Michigan St,0.625
+2022-1314-1129,North Carolina,Boise St,0.75
+2022-1314-1272,North Carolina,Memphis,0.265
+2022-1314-1172,North Carolina,Davidson,0.75
+2022-1314-1353,North Carolina,Rutgers,0.935
+2022-1314-1323,North Carolina,Notre Dame,0.86
+2022-1314-1308,North Carolina,New Mexico St,0.885
+2022-1314-1436,North Carolina,Vermont,0.895
+2022-1314-1286,North Carolina,Montana St,0.96
+2022-1314-1168,North Carolina,CS Fullerton,0.95
+2022-1314-1209,North Carolina,Georgia St,0.97
+2022-1266-1362,Marquette,San Francisco,0.595
+2022-1266-1439,Marquette,Virginia Tech,0.82
+2022-1266-1461,Marquette,Wyoming,0.86
+2022-1266-1231,Marquette,Indiana,0.465
+2022-1266-1103,Marquette,Akron,0.94
+2022-1266-1463,Marquette,Yale,0.965
+2022-1266-1389,Marquette,St Peter's,0.965
+2022-1266-1313,Marquette,Norfolk St,0.935
+2022-1266-1242,Marquette,Kansas,0.815
+2022-1266-1120,Marquette,Auburn,0.81
+2022-1266-1458,Marquette,Wisconsin,0.495
+2022-1266-1344,Marquette,Providence,0.78
+2022-1266-1234,Marquette,Iowa,0.69
+2022-1266-1261,Marquette,LSU,0.65
+2022-1266-1425,Marquette,USC,0.69
+2022-1266-1361,Marquette,San Diego St,0.705
+2022-1266-1166,Marquette,Creighton,0.805
+2022-1266-1274,Marquette,Miami FL,0.69
+2022-1266-1235,Marquette,Iowa St,0.645
+2022-1266-1350,Marquette,Richmond,0.865
+2022-1266-1355,Marquette,S Dakota St,0.665
+2022-1266-1159,Marquette,Colgate,0.895
+2022-1266-1240,Marquette,Jacksonville St,0.905
+2022-1266-1411,Marquette,TX Southern,0.965
+2022-1266-1394,Marquette,TAM C. Christi,0.955
+2022-1266-1112,Marquette,Arizona,0.77
+2022-1266-1437,Marquette,Villanova,0.765
+2022-1266-1397,Marquette,Tennessee,0.68
+2022-1266-1228,Marquette,Illinois,0.68
+2022-1266-1222,Marquette,Houston,0.8
+2022-1266-1161,Marquette,Colorado St,0.81
+2022-1266-1326,Marquette,Ohio St,0.73
+2022-1266-1371,Marquette,Seton Hall,0.55
+2022-1266-1395,Marquette,TCU,0.585
+2022-1266-1260,Marquette,Loyola-Chicago,0.705
+2022-1266-1276,Marquette,Michigan,0.735
+2022-1266-1412,Marquette,UAB,0.685
+2022-1266-1151,Marquette,Chattanooga,0.875
+2022-1266-1255,Marquette,Longwood,0.935
+2022-1266-1174,Marquette,Delaware,0.915
+2022-1266-1460,Marquette,Wright St,0.915
+2022-1266-1136,Marquette,Bryant,0.94
+2022-1266-1211,Marquette,Gonzaga,0.7
+2022-1266-1181,Marquette,Duke,0.775
+2022-1266-1403,Marquette,Texas Tech,0.63
+2022-1266-1116,Marquette,Arkansas,0.585
+2022-1266-1163,Marquette,Connecticut,0.76
+2022-1266-1104,Marquette,Alabama,0.5
+2022-1266-1277,Marquette,Michigan St,0.65
+2022-1266-1129,Marquette,Boise St,0.595
+2022-1266-1272,Marquette,Memphis,0.425
+2022-1266-1172,Marquette,Davidson,0.83
+2022-1266-1353,Marquette,Rutgers,0.855
+2022-1266-1323,Marquette,Notre Dame,0.8
+2022-1266-1308,Marquette,New Mexico St,0.89
+2022-1266-1436,Marquette,Vermont,0.82
+2022-1266-1286,Marquette,Montana St,0.94
+2022-1266-1168,Marquette,CS Fullerton,0.945
+2022-1266-1209,Marquette,Georgia St,0.945
+2022-1362-1439,San Francisco,Virginia Tech,0.875
+2022-1362-1461,San Francisco,Wyoming,0.91
+2022-1362-1231,San Francisco,Indiana,0.87
+2022-1362-1103,San Francisco,Akron,1.0
+2022-1362-1463,San Francisco,Yale,1.0
+2022-1362-1389,San Francisco,St Peter's,0.975
+2022-1362-1313,San Francisco,Norfolk St,0.995
+2022-1362-1242,San Francisco,Kansas,0.745
+2022-1362-1120,San Francisco,Auburn,0.68
+2022-1362-1458,San Francisco,Wisconsin,0.64
+2022-1362-1344,San Francisco,Providence,0.88
+2022-1362-1234,San Francisco,Iowa,0.655
+2022-1362-1261,San Francisco,LSU,0.43
+2022-1362-1425,San Francisco,USC,0.825
+2022-1362-1361,San Francisco,San Diego St,0.84
+2022-1362-1166,San Francisco,Creighton,0.95
+2022-1362-1274,San Francisco,Miami FL,0.87
+2022-1362-1235,San Francisco,Iowa St,0.875
+2022-1362-1350,San Francisco,Richmond,0.925
+2022-1362-1355,San Francisco,S Dakota St,0.815
+2022-1362-1159,San Francisco,Colgate,0.96
+2022-1362-1240,San Francisco,Jacksonville St,0.995
+2022-1362-1411,San Francisco,TX Southern,0.99
+2022-1362-1394,San Francisco,TAM C. Christi,0.99
+2022-1362-1112,San Francisco,Arizona,0.77
+2022-1362-1437,San Francisco,Villanova,0.77
+2022-1362-1397,San Francisco,Tennessee,0.735
+2022-1362-1228,San Francisco,Illinois,0.495
+2022-1362-1222,San Francisco,Houston,0.775
+2022-1362-1161,San Francisco,Colorado St,0.835
+2022-1362-1326,San Francisco,Ohio St,0.675
+2022-1362-1371,San Francisco,Seton Hall,0.815
+2022-1362-1395,San Francisco,TCU,0.83
+2022-1362-1260,San Francisco,Loyola-Chicago,0.875
+2022-1362-1276,San Francisco,Michigan,0.735
+2022-1362-1412,San Francisco,UAB,0.89
+2022-1362-1151,San Francisco,Chattanooga,0.95
+2022-1362-1255,San Francisco,Longwood,0.995
+2022-1362-1174,San Francisco,Delaware,0.975
+2022-1362-1460,San Francisco,Wright St,0.945
+2022-1362-1136,San Francisco,Bryant,0.985
+2022-1362-1211,San Francisco,Gonzaga,0.685
+2022-1362-1181,San Francisco,Duke,0.74
+2022-1362-1403,San Francisco,Texas Tech,0.705
+2022-1362-1116,San Francisco,Arkansas,0.5
+2022-1362-1163,San Francisco,Connecticut,0.675
+2022-1362-1104,San Francisco,Alabama,0.615
+2022-1362-1277,San Francisco,Michigan St,0.815
+2022-1362-1129,San Francisco,Boise St,0.76
+2022-1362-1272,San Francisco,Memphis,0.695
+2022-1362-1172,San Francisco,Davidson,0.74
+2022-1362-1353,San Francisco,Rutgers,0.965
+2022-1362-1323,San Francisco,Notre Dame,0.87
+2022-1362-1308,San Francisco,New Mexico St,0.965
+2022-1362-1436,San Francisco,Vermont,0.9
+2022-1362-1286,San Francisco,Montana St,0.99
+2022-1362-1168,San Francisco,CS Fullerton,0.995
+2022-1362-1209,San Francisco,Georgia St,0.995
+2022-1439-1461,Virginia Tech,Wyoming,0.905
+2022-1439-1231,Virginia Tech,Indiana,0.63
+2022-1439-1103,Virginia Tech,Akron,1.0
+2022-1439-1463,Virginia Tech,Yale,0.955
+2022-1439-1389,Virginia Tech,St Peter's,0.97
+2022-1439-1313,Virginia Tech,Norfolk St,0.98
+2022-1439-1242,Virginia Tech,Kansas,0.865
+2022-1439-1120,Virginia Tech,Auburn,0.73
+2022-1439-1458,Virginia Tech,Wisconsin,0.51
+2022-1439-1344,Virginia Tech,Providence,0.855
+2022-1439-1234,Virginia Tech,Iowa,0.725
+2022-1439-1261,Virginia Tech,LSU,0.65
+2022-1439-1425,Virginia Tech,USC,0.775
+2022-1439-1361,Virginia Tech,San Diego St,0.645
+2022-1439-1166,Virginia Tech,Creighton,0.765
+2022-1439-1274,Virginia Tech,Miami FL,0.935
+2022-1439-1235,Virginia Tech,Iowa St,0.72
+2022-1439-1350,Virginia Tech,Richmond,0.95
+2022-1439-1355,Virginia Tech,S Dakota St,0.925
+2022-1439-1159,Virginia Tech,Colgate,0.98
+2022-1439-1240,Virginia Tech,Jacksonville St,0.985
+2022-1439-1411,Virginia Tech,TX Southern,0.93
+2022-1439-1394,Virginia Tech,TAM C. Christi,0.94
+2022-1439-1112,Virginia Tech,Arizona,0.775
+2022-1439-1437,Virginia Tech,Villanova,0.72
+2022-1439-1397,Virginia Tech,Tennessee,0.74
+2022-1439-1228,Virginia Tech,Illinois,0.59
+2022-1439-1222,Virginia Tech,Houston,0.795
+2022-1439-1161,Virginia Tech,Colorado St,0.68
+2022-1439-1326,Virginia Tech,Ohio St,0.715
+2022-1439-1371,Virginia Tech,Seton Hall,0.61
+2022-1439-1395,Virginia Tech,TCU,0.635
+2022-1439-1260,Virginia Tech,Loyola-Chicago,0.565
+2022-1439-1276,Virginia Tech,Michigan,0.645
+2022-1439-1412,Virginia Tech,UAB,0.84
+2022-1439-1151,Virginia Tech,Chattanooga,0.95
+2022-1439-1255,Virginia Tech,Longwood,0.99
+2022-1439-1174,Virginia Tech,Delaware,0.99
+2022-1439-1460,Virginia Tech,Wright St,0.995
+2022-1439-1136,Virginia Tech,Bryant,0.99
+2022-1439-1211,Virginia Tech,Gonzaga,0.625
+2022-1439-1181,Virginia Tech,Duke,0.825
+2022-1439-1403,Virginia Tech,Texas Tech,0.59
+2022-1439-1116,Virginia Tech,Arkansas,0.71
+2022-1439-1163,Virginia Tech,Connecticut,0.345
+2022-1439-1104,Virginia Tech,Alabama,0.81
+2022-1439-1277,Virginia Tech,Michigan St,0.74
+2022-1439-1129,Virginia Tech,Boise St,0.76
+2022-1439-1272,Virginia Tech,Memphis,0.595
+2022-1439-1172,Virginia Tech,Davidson,0.74
+2022-1439-1353,Virginia Tech,Rutgers,0.87
+2022-1439-1323,Virginia Tech,Notre Dame,0.865
+2022-1439-1308,Virginia Tech,New Mexico St,0.955
+2022-1439-1436,Virginia Tech,Vermont,0.92
+2022-1439-1286,Virginia Tech,Montana St,0.985
+2022-1439-1168,Virginia Tech,CS Fullerton,0.99
+2022-1439-1209,Virginia Tech,Georgia St,0.955
+2022-1461-1231,Wyoming,Indiana,0.165
+2022-1461-1103,Wyoming,Akron,0.89
+2022-1461-1463,Wyoming,Yale,0.935
+2022-1461-1389,Wyoming,St Peter's,0.895
+2022-1461-1313,Wyoming,Norfolk St,0.925
+2022-1461-1242,Wyoming,Kansas,0.775
+2022-1461-1120,Wyoming,Auburn,0.74
+2022-1461-1458,Wyoming,Wisconsin,0.325
+2022-1461-1344,Wyoming,Providence,0.585
+2022-1461-1234,Wyoming,Iowa,0.715
+2022-1461-1261,Wyoming,LSU,0.635
+2022-1461-1425,Wyoming,USC,0.285
+2022-1461-1361,Wyoming,San Diego St,0.585
+2022-1461-1166,Wyoming,Creighton,0.225
+2022-1461-1274,Wyoming,Miami FL,0.565
+2022-1461-1235,Wyoming,Iowa St,0.19
+2022-1461-1350,Wyoming,Richmond,0.615
+2022-1461-1355,Wyoming,S Dakota St,0.615
+2022-1461-1159,Wyoming,Colgate,0.855
+2022-1461-1240,Wyoming,Jacksonville St,0.84
+2022-1461-1411,Wyoming,TX Southern,0.965
+2022-1461-1394,Wyoming,TAM C. Christi,0.94
+2022-1461-1112,Wyoming,Arizona,0.76
+2022-1461-1437,Wyoming,Villanova,0.825
+2022-1461-1397,Wyoming,Tennessee,0.615
+2022-1461-1228,Wyoming,Illinois,0.635
+2022-1461-1222,Wyoming,Houston,0.83
+2022-1461-1161,Wyoming,Colorado St,0.67
+2022-1461-1326,Wyoming,Ohio St,0.565
+2022-1461-1371,Wyoming,Seton Hall,0.275
+2022-1461-1395,Wyoming,TCU,0.2
+2022-1461-1260,Wyoming,Loyola-Chicago,0.575
+2022-1461-1276,Wyoming,Michigan,0.52
+2022-1461-1412,Wyoming,UAB,0.74
+2022-1461-1151,Wyoming,Chattanooga,0.745
+2022-1461-1255,Wyoming,Longwood,0.91
+2022-1461-1174,Wyoming,Delaware,0.805
+2022-1461-1460,Wyoming,Wright St,0.945
+2022-1461-1136,Wyoming,Bryant,0.92
+2022-1461-1211,Wyoming,Gonzaga,0.675
+2022-1461-1181,Wyoming,Duke,0.74
+2022-1461-1403,Wyoming,Texas Tech,0.565
+2022-1461-1116,Wyoming,Arkansas,0.7
+2022-1461-1163,Wyoming,Connecticut,0.635
+2022-1461-1104,Wyoming,Alabama,0.75
+2022-1461-1277,Wyoming,Michigan St,0.33
+2022-1461-1129,Wyoming,Boise St,0.445
+2022-1461-1272,Wyoming,Memphis,0.66
+2022-1461-1172,Wyoming,Davidson,0.585
+2022-1461-1353,Wyoming,Rutgers,0.62
+2022-1461-1323,Wyoming,Notre Dame,0.68
+2022-1461-1308,Wyoming,New Mexico St,0.72
+2022-1461-1436,Wyoming,Vermont,0.72
+2022-1461-1286,Wyoming,Montana St,0.945
+2022-1461-1168,Wyoming,CS Fullerton,0.92
+2022-1461-1209,Wyoming,Georgia St,0.945
+2022-1231-1103,Indiana,Akron,0.94
+2022-1231-1463,Indiana,Yale,0.98
+2022-1231-1389,Indiana,St Peter's,0.98
+2022-1231-1313,Indiana,Norfolk St,0.885
+2022-1231-1242,Indiana,Kansas,0.72
+2022-1231-1120,Indiana,Auburn,0.82
+2022-1231-1458,Indiana,Wisconsin,0.615
+2022-1231-1344,Indiana,Providence,0.57
+2022-1231-1234,Indiana,Iowa,0.695
+2022-1231-1261,Indiana,LSU,0.495
+2022-1231-1425,Indiana,USC,0.71
+2022-1231-1361,Indiana,San Diego St,0.645
+2022-1231-1166,Indiana,Creighton,0.74
+2022-1231-1274,Indiana,Miami FL,0.66
+2022-1231-1235,Indiana,Iowa St,0.745
+2022-1231-1350,Indiana,Richmond,0.815
+2022-1231-1355,Indiana,S Dakota St,0.76
+2022-1231-1159,Indiana,Colgate,0.895
+2022-1231-1240,Indiana,Jacksonville St,0.865
+2022-1231-1411,Indiana,TX Southern,0.95
+2022-1231-1394,Indiana,TAM C. Christi,0.95
+2022-1231-1112,Indiana,Arizona,0.725
+2022-1231-1437,Indiana,Villanova,0.745
+2022-1231-1397,Indiana,Tennessee,0.755
+2022-1231-1228,Indiana,Illinois,0.57
+2022-1231-1222,Indiana,Houston,0.805
+2022-1231-1161,Indiana,Colorado St,0.71
+2022-1231-1326,Indiana,Ohio St,0.615
+2022-1231-1371,Indiana,Seton Hall,0.51
+2022-1231-1395,Indiana,TCU,0.675
+2022-1231-1260,Indiana,Loyola-Chicago,0.565
+2022-1231-1276,Indiana,Michigan,0.625
+2022-1231-1412,Indiana,UAB,0.635
+2022-1231-1151,Indiana,Chattanooga,0.76
+2022-1231-1255,Indiana,Longwood,0.915
+2022-1231-1174,Indiana,Delaware,0.905
+2022-1231-1460,Indiana,Wright St,0.89
+2022-1231-1136,Indiana,Bryant,0.975
+2022-1231-1211,Indiana,Gonzaga,0.685
+2022-1231-1181,Indiana,Duke,0.77
+2022-1231-1403,Indiana,Texas Tech,0.655
+2022-1231-1116,Indiana,Arkansas,0.665
+2022-1231-1163,Indiana,Connecticut,0.67
+2022-1231-1104,Indiana,Alabama,0.74
+2022-1231-1277,Indiana,Michigan St,0.575
+2022-1231-1129,Indiana,Boise St,0.64
+2022-1231-1272,Indiana,Memphis,0.48
+2022-1231-1172,Indiana,Davidson,0.56
+2022-1231-1353,Indiana,Rutgers,0.9
+2022-1231-1323,Indiana,Notre Dame,0.62
+2022-1231-1308,Indiana,New Mexico St,0.845
+2022-1231-1436,Indiana,Vermont,0.705
+2022-1231-1286,Indiana,Montana St,0.945
+2022-1231-1168,Indiana,CS Fullerton,0.915
+2022-1231-1209,Indiana,Georgia St,0.98
+2022-1103-1463,Akron,Yale,0.665
+2022-1103-1389,Akron,St Peter's,0.58
+2022-1103-1313,Akron,Norfolk St,0.72
+2022-1103-1242,Akron,Kansas,0.72
+2022-1103-1120,Akron,Auburn,0.67
+2022-1103-1458,Akron,Wisconsin,0.485
+2022-1103-1344,Akron,Providence,0.505
+2022-1103-1234,Akron,Iowa,0.57
+2022-1103-1261,Akron,LSU,0.635
+2022-1103-1425,Akron,USC,0.55
+2022-1103-1361,Akron,San Diego St,0.61
+2022-1103-1166,Akron,Creighton,0.57
+2022-1103-1274,Akron,Miami FL,0.59
+2022-1103-1235,Akron,Iowa St,0.58
+2022-1103-1350,Akron,Richmond,0.635
+2022-1103-1355,Akron,S Dakota St,0.7
+2022-1103-1159,Akron,Colgate,0.56
+2022-1103-1240,Akron,Jacksonville St,0.505
+2022-1103-1411,Akron,TX Southern,0.72
+2022-1103-1394,Akron,TAM C. Christi,0.735
+2022-1103-1112,Akron,Arizona,0.71
+2022-1103-1437,Akron,Villanova,0.705
+2022-1103-1397,Akron,Tennessee,0.67
+2022-1103-1228,Akron,Illinois,0.56
+2022-1103-1222,Akron,Houston,0.73
+2022-1103-1161,Akron,Colorado St,0.555
+2022-1103-1326,Akron,Ohio St,0.53
+2022-1103-1371,Akron,Seton Hall,0.62
+2022-1103-1395,Akron,TCU,0.52
+2022-1103-1260,Akron,Loyola-Chicago,0.615
+2022-1103-1276,Akron,Michigan,0.545
+2022-1103-1412,Akron,UAB,0.61
+2022-1103-1151,Akron,Chattanooga,0.57
+2022-1103-1255,Akron,Longwood,0.56
+2022-1103-1174,Akron,Delaware,0.615
+2022-1103-1460,Akron,Wright St,0.785
+2022-1103-1136,Akron,Bryant,0.835
+2022-1103-1211,Akron,Gonzaga,0.705
+2022-1103-1181,Akron,Duke,0.665
+2022-1103-1403,Akron,Texas Tech,0.625
+2022-1103-1116,Akron,Arkansas,0.635
+2022-1103-1163,Akron,Connecticut,0.52
+2022-1103-1104,Akron,Alabama,0.52
+2022-1103-1277,Akron,Michigan St,0.605
+2022-1103-1129,Akron,Boise St,0.68
+2022-1103-1272,Akron,Memphis,0.53
+2022-1103-1172,Akron,Davidson,0.57
+2022-1103-1353,Akron,Rutgers,0.48
+2022-1103-1323,Akron,Notre Dame,0.51
+2022-1103-1308,Akron,New Mexico St,0.545
+2022-1103-1436,Akron,Vermont,0.56
+2022-1103-1286,Akron,Montana St,0.65
+2022-1103-1168,Akron,CS Fullerton,0.59
+2022-1103-1209,Akron,Georgia St,0.645
+2022-1463-1389,Yale,St Peter's,0.5
+2022-1463-1313,Yale,Norfolk St,0.57
+2022-1463-1242,Yale,Kansas,0.7
+2022-1463-1120,Yale,Auburn,0.71
+2022-1463-1458,Yale,Wisconsin,0.475
+2022-1463-1344,Yale,Providence,0.54
+2022-1463-1234,Yale,Iowa,0.52
+2022-1463-1261,Yale,LSU,0.7
+2022-1463-1425,Yale,USC,0.57
+2022-1463-1361,Yale,San Diego St,0.71
+2022-1463-1166,Yale,Creighton,0.62
+2022-1463-1274,Yale,Miami FL,0.535
+2022-1463-1235,Yale,Iowa St,0.625
+2022-1463-1350,Yale,Richmond,0.435
+2022-1463-1355,Yale,S Dakota St,0.615
+2022-1463-1159,Yale,Colgate,0.425
+2022-1463-1240,Yale,Jacksonville St,0.43
+2022-1463-1411,Yale,TX Southern,0.64
+2022-1463-1394,Yale,TAM C. Christi,0.675
+2022-1463-1112,Yale,Arizona,0.74
+2022-1463-1437,Yale,Villanova,0.675
+2022-1463-1397,Yale,Tennessee,0.74
+2022-1463-1228,Yale,Illinois,0.62
+2022-1463-1222,Yale,Houston,0.72
+2022-1463-1161,Yale,Colorado St,0.605
+2022-1463-1326,Yale,Ohio St,0.6
+2022-1463-1371,Yale,Seton Hall,0.585
+2022-1463-1395,Yale,TCU,0.575
+2022-1463-1260,Yale,Loyola-Chicago,0.515
+2022-1463-1276,Yale,Michigan,0.59
+2022-1463-1412,Yale,UAB,0.495
+2022-1463-1151,Yale,Chattanooga,0.555
+2022-1463-1255,Yale,Longwood,0.44
+2022-1463-1174,Yale,Delaware,0.375
+2022-1463-1460,Yale,Wright St,0.475
+2022-1463-1136,Yale,Bryant,0.675
+2022-1463-1211,Yale,Gonzaga,0.715
+2022-1463-1181,Yale,Duke,0.64
+2022-1463-1403,Yale,Texas Tech,0.75
+2022-1463-1116,Yale,Arkansas,0.55
+2022-1463-1163,Yale,Connecticut,0.58
+2022-1463-1104,Yale,Alabama,0.58
+2022-1463-1277,Yale,Michigan St,0.555
+2022-1463-1129,Yale,Boise St,0.6
+2022-1463-1272,Yale,Memphis,0.44
+2022-1463-1172,Yale,Davidson,0.625
+2022-1463-1353,Yale,Rutgers,0.59
+2022-1463-1323,Yale,Notre Dame,0.585
+2022-1463-1308,Yale,New Mexico St,0.55
+2022-1463-1436,Yale,Vermont,0.57
+2022-1463-1286,Yale,Montana St,0.35
+2022-1463-1168,Yale,CS Fullerton,0.4
+2022-1463-1209,Yale,Georgia St,0.625
+2022-1389-1313,St Peter's,Norfolk St,0.62
+2022-1389-1242,St Peter's,Kansas,0.61
+2022-1389-1120,St Peter's,Auburn,0.62
+2022-1389-1458,St Peter's,Wisconsin,0.495
+2022-1389-1344,St Peter's,Providence,0.645
+2022-1389-1234,St Peter's,Iowa,0.525
+2022-1389-1261,St Peter's,LSU,0.605
+2022-1389-1425,St Peter's,USC,0.615
+2022-1389-1361,St Peter's,San Diego St,0.625
+2022-1389-1166,St Peter's,Creighton,0.535
+2022-1389-1274,St Peter's,Miami FL,0.57
+2022-1389-1235,St Peter's,Iowa St,0.54
+2022-1389-1350,St Peter's,Richmond,0.515
+2022-1389-1355,St Peter's,S Dakota St,0.635
+2022-1389-1159,St Peter's,Colgate,0.505
+2022-1389-1240,St Peter's,Jacksonville St,0.485
+2022-1389-1411,St Peter's,TX Southern,0.715
+2022-1389-1394,St Peter's,TAM C. Christi,0.785
+2022-1389-1112,St Peter's,Arizona,0.64
+2022-1389-1437,St Peter's,Villanova,0.515
+2022-1389-1397,St Peter's,Tennessee,0.72
+2022-1389-1228,St Peter's,Illinois,0.62
+2022-1389-1222,St Peter's,Houston,0.605
+2022-1389-1161,St Peter's,Colorado St,0.555
+2022-1389-1326,St Peter's,Ohio St,0.585
+2022-1389-1371,St Peter's,Seton Hall,0.505
+2022-1389-1395,St Peter's,TCU,0.555
+2022-1389-1260,St Peter's,Loyola-Chicago,0.66
+2022-1389-1276,St Peter's,Michigan,0.58
+2022-1389-1412,St Peter's,UAB,0.545
+2022-1389-1151,St Peter's,Chattanooga,0.575
+2022-1389-1255,St Peter's,Longwood,0.515
+2022-1389-1174,St Peter's,Delaware,0.52
+2022-1389-1460,St Peter's,Wright St,0.715
+2022-1389-1136,St Peter's,Bryant,0.785
+2022-1389-1211,St Peter's,Gonzaga,0.65
+2022-1389-1181,St Peter's,Duke,0.52
+2022-1389-1403,St Peter's,Texas Tech,0.745
+2022-1389-1116,St Peter's,Arkansas,0.635
+2022-1389-1163,St Peter's,Connecticut,0.605
+2022-1389-1104,St Peter's,Alabama,0.585
+2022-1389-1277,St Peter's,Michigan St,0.605
+2022-1389-1129,St Peter's,Boise St,0.645
+2022-1389-1272,St Peter's,Memphis,0.58
+2022-1389-1172,St Peter's,Davidson,0.59
+2022-1389-1353,St Peter's,Rutgers,0.55
+2022-1389-1323,St Peter's,Notre Dame,0.545
+2022-1389-1308,St Peter's,New Mexico St,0.52
+2022-1389-1436,St Peter's,Vermont,0.59
+2022-1389-1286,St Peter's,Montana St,0.5
+2022-1389-1168,St Peter's,CS Fullerton,0.44
+2022-1389-1209,St Peter's,Georgia St,0.49
+2022-1313-1242,Norfolk St,Kansas,0.74
+2022-1313-1120,Norfolk St,Auburn,0.68
+2022-1313-1458,Norfolk St,Wisconsin,0.45
+2022-1313-1344,Norfolk St,Providence,0.59
+2022-1313-1234,Norfolk St,Iowa,0.56
+2022-1313-1261,Norfolk St,LSU,0.68
+2022-1313-1425,Norfolk St,USC,0.54
+2022-1313-1361,Norfolk St,San Diego St,0.69
+2022-1313-1166,Norfolk St,Creighton,0.53
+2022-1313-1274,Norfolk St,Miami FL,0.4
+2022-1313-1235,Norfolk St,Iowa St,0.555
+2022-1313-1350,Norfolk St,Richmond,0.41
+2022-1313-1355,Norfolk St,S Dakota St,0.5
+2022-1313-1159,Norfolk St,Colgate,0.525
+2022-1313-1240,Norfolk St,Jacksonville St,0.465
+2022-1313-1411,Norfolk St,TX Southern,0.43
+2022-1313-1394,Norfolk St,TAM C. Christi,0.58
+2022-1313-1112,Norfolk St,Arizona,0.72
+2022-1313-1437,Norfolk St,Villanova,0.61
+2022-1313-1397,Norfolk St,Tennessee,0.695
+2022-1313-1228,Norfolk St,Illinois,0.54
+2022-1313-1222,Norfolk St,Houston,0.735
+2022-1313-1161,Norfolk St,Colorado St,0.495
+2022-1313-1326,Norfolk St,Ohio St,0.58
+2022-1313-1371,Norfolk St,Seton Hall,0.525
+2022-1313-1395,Norfolk St,TCU,0.58
+2022-1313-1260,Norfolk St,Loyola-Chicago,0.62
+2022-1313-1276,Norfolk St,Michigan,0.505
+2022-1313-1412,Norfolk St,UAB,0.48
+2022-1313-1151,Norfolk St,Chattanooga,0.635
+2022-1313-1255,Norfolk St,Longwood,0.49
+2022-1313-1174,Norfolk St,Delaware,0.37
+2022-1313-1460,Norfolk St,Wright St,0.44
+2022-1313-1136,Norfolk St,Bryant,0.665
+2022-1313-1211,Norfolk St,Gonzaga,0.7
+2022-1313-1181,Norfolk St,Duke,0.585
+2022-1313-1403,Norfolk St,Texas Tech,0.715
+2022-1313-1116,Norfolk St,Arkansas,0.635
+2022-1313-1163,Norfolk St,Connecticut,0.575
+2022-1313-1104,Norfolk St,Alabama,0.535
+2022-1313-1277,Norfolk St,Michigan St,0.52
+2022-1313-1129,Norfolk St,Boise St,0.61
+2022-1313-1272,Norfolk St,Memphis,0.51
+2022-1313-1172,Norfolk St,Davidson,0.5
+2022-1313-1353,Norfolk St,Rutgers,0.61
+2022-1313-1323,Norfolk St,Notre Dame,0.565
+2022-1313-1308,Norfolk St,New Mexico St,0.565
+2022-1313-1436,Norfolk St,Vermont,0.545
+2022-1313-1286,Norfolk St,Montana St,0.555
+2022-1313-1168,Norfolk St,CS Fullerton,0.525
+2022-1313-1209,Norfolk St,Georgia St,0.515
+2022-1242-1120,Kansas,Auburn,0.765
+2022-1242-1458,Kansas,Wisconsin,0.76
+2022-1242-1344,Kansas,Providence,0.995
+2022-1242-1234,Kansas,Iowa,0.52
+2022-1242-1261,Kansas,LSU,0.74
+2022-1242-1425,Kansas,USC,1.0
+2022-1242-1361,Kansas,San Diego St,0.745
+2022-1242-1166,Kansas,Creighton,0.935
+2022-1242-1274,Kansas,Miami FL,1.0
+2022-1242-1235,Kansas,Iowa St,0.88
+2022-1242-1350,Kansas,Richmond,0.995
+2022-1242-1355,Kansas,S Dakota St,0.99
+2022-1242-1159,Kansas,Colgate,1.0
+2022-1242-1240,Kansas,Jacksonville St,1.0
+2022-1242-1411,Kansas,TX Southern,1.0
+2022-1242-1394,Kansas,TAM C. Christi,1.0
+2022-1242-1112,Kansas,Arizona,0.71
+2022-1242-1437,Kansas,Villanova,0.885
+2022-1242-1397,Kansas,Tennessee,0.81
+2022-1242-1228,Kansas,Illinois,0.88
+2022-1242-1222,Kansas,Houston,0.78
+2022-1242-1161,Kansas,Colorado St,0.975
+2022-1242-1326,Kansas,Ohio St,0.97
+2022-1242-1371,Kansas,Seton Hall,0.91
+2022-1242-1395,Kansas,TCU,0.97
+2022-1242-1260,Kansas,Loyola-Chicago,0.94
+2022-1242-1276,Kansas,Michigan,0.945
+2022-1242-1412,Kansas,UAB,0.995
+2022-1242-1151,Kansas,Chattanooga,0.995
+2022-1242-1255,Kansas,Longwood,1.0
+2022-1242-1174,Kansas,Delaware,1.0
+2022-1242-1460,Kansas,Wright St,0.995
+2022-1242-1136,Kansas,Bryant,0.995
+2022-1242-1211,Kansas,Gonzaga,0.63
+2022-1242-1181,Kansas,Duke,0.61
+2022-1242-1403,Kansas,Texas Tech,0.76
+2022-1242-1116,Kansas,Arkansas,0.82
+2022-1242-1163,Kansas,Connecticut,0.905
+2022-1242-1104,Kansas,Alabama,0.93
+2022-1242-1277,Kansas,Michigan St,0.995
+2022-1242-1129,Kansas,Boise St,0.93
+2022-1242-1272,Kansas,Memphis,0.895
+2022-1242-1172,Kansas,Davidson,0.95
+2022-1242-1353,Kansas,Rutgers,1.0
+2022-1242-1323,Kansas,Notre Dame,0.995
+2022-1242-1308,Kansas,New Mexico St,1.0
+2022-1242-1436,Kansas,Vermont,0.995
+2022-1242-1286,Kansas,Montana St,1.0
+2022-1242-1168,Kansas,CS Fullerton,1.0
+2022-1242-1209,Kansas,Georgia St,0.995
+2022-1120-1458,Auburn,Wisconsin,0.95
+2022-1120-1344,Auburn,Providence,0.955
+2022-1120-1234,Auburn,Iowa,0.675
+2022-1120-1261,Auburn,LSU,0.815
+2022-1120-1425,Auburn,USC,0.94
+2022-1120-1361,Auburn,San Diego St,0.81
+2022-1120-1166,Auburn,Creighton,1.0
+2022-1120-1274,Auburn,Miami FL,0.985
+2022-1120-1235,Auburn,Iowa St,0.995
+2022-1120-1350,Auburn,Richmond,0.995
+2022-1120-1355,Auburn,S Dakota St,0.955
+2022-1120-1159,Auburn,Colgate,1.0
+2022-1120-1240,Auburn,Jacksonville St,1.0
+2022-1120-1411,Auburn,TX Southern,0.99
+2022-1120-1394,Auburn,TAM C. Christi,0.995
+2022-1120-1112,Auburn,Arizona,0.625
+2022-1120-1437,Auburn,Villanova,0.76
+2022-1120-1397,Auburn,Tennessee,0.725
+2022-1120-1228,Auburn,Illinois,0.835
+2022-1120-1222,Auburn,Houston,0.78
+2022-1120-1161,Auburn,Colorado St,0.965
+2022-1120-1326,Auburn,Ohio St,0.89
+2022-1120-1371,Auburn,Seton Hall,0.97
+2022-1120-1395,Auburn,TCU,0.94
+2022-1120-1260,Auburn,Loyola-Chicago,0.935
+2022-1120-1276,Auburn,Michigan,0.92
+2022-1120-1412,Auburn,UAB,0.98
+2022-1120-1151,Auburn,Chattanooga,1.0
+2022-1120-1255,Auburn,Longwood,1.0
+2022-1120-1174,Auburn,Delaware,0.995
+2022-1120-1460,Auburn,Wright St,1.0
+2022-1120-1136,Auburn,Bryant,1.0
+2022-1120-1211,Auburn,Gonzaga,0.66
+2022-1120-1181,Auburn,Duke,0.745
+2022-1120-1403,Auburn,Texas Tech,0.81
+2022-1120-1116,Auburn,Arkansas,0.88
+2022-1120-1163,Auburn,Connecticut,0.9
+2022-1120-1104,Auburn,Alabama,0.775
+2022-1120-1277,Auburn,Michigan St,0.95
+2022-1120-1129,Auburn,Boise St,0.945
+2022-1120-1272,Auburn,Memphis,0.695
+2022-1120-1172,Auburn,Davidson,0.93
+2022-1120-1353,Auburn,Rutgers,0.995
+2022-1120-1323,Auburn,Notre Dame,0.965
+2022-1120-1308,Auburn,New Mexico St,1.0
+2022-1120-1436,Auburn,Vermont,0.98
+2022-1120-1286,Auburn,Montana St,1.0
+2022-1120-1168,Auburn,CS Fullerton,0.99
+2022-1120-1209,Auburn,Georgia St,1.0
+2022-1458-1344,Wisconsin,Providence,0.585
+2022-1458-1234,Wisconsin,Iowa,0.825
+2022-1458-1261,Wisconsin,LSU,0.475
+2022-1458-1425,Wisconsin,USC,0.65
+2022-1458-1361,Wisconsin,San Diego St,0.52
+2022-1458-1166,Wisconsin,Creighton,0.515
+2022-1458-1274,Wisconsin,Miami FL,0.595
+2022-1458-1235,Wisconsin,Iowa St,0.53
+2022-1458-1350,Wisconsin,Richmond,0.91
+2022-1458-1355,Wisconsin,S Dakota St,0.675
+2022-1458-1159,Wisconsin,Colgate,0.875
+2022-1458-1240,Wisconsin,Jacksonville St,0.835
+2022-1458-1411,Wisconsin,TX Southern,0.885
+2022-1458-1394,Wisconsin,TAM C. Christi,0.875
+2022-1458-1112,Wisconsin,Arizona,0.73
+2022-1458-1437,Wisconsin,Villanova,0.725
+2022-1458-1397,Wisconsin,Tennessee,0.59
+2022-1458-1228,Wisconsin,Illinois,0.36
+2022-1458-1222,Wisconsin,Houston,0.8
+2022-1458-1161,Wisconsin,Colorado St,0.535
+2022-1458-1326,Wisconsin,Ohio St,0.355
+2022-1458-1371,Wisconsin,Seton Hall,0.54
+2022-1458-1395,Wisconsin,TCU,0.535
+2022-1458-1260,Wisconsin,Loyola-Chicago,0.31
+2022-1458-1276,Wisconsin,Michigan,0.39
+2022-1458-1412,Wisconsin,UAB,0.66
+2022-1458-1151,Wisconsin,Chattanooga,0.9
+2022-1458-1255,Wisconsin,Longwood,0.92
+2022-1458-1174,Wisconsin,Delaware,0.785
+2022-1458-1460,Wisconsin,Wright St,0.885
+2022-1458-1136,Wisconsin,Bryant,0.855
+2022-1458-1211,Wisconsin,Gonzaga,0.64
+2022-1458-1181,Wisconsin,Duke,0.795
+2022-1458-1403,Wisconsin,Texas Tech,0.555
+2022-1458-1116,Wisconsin,Arkansas,0.58
+2022-1458-1163,Wisconsin,Connecticut,0.405
+2022-1458-1104,Wisconsin,Alabama,0.48
+2022-1458-1277,Wisconsin,Michigan St,0.355
+2022-1458-1129,Wisconsin,Boise St,0.405
+2022-1458-1272,Wisconsin,Memphis,0.435
+2022-1458-1172,Wisconsin,Davidson,0.49
+2022-1458-1353,Wisconsin,Rutgers,0.875
+2022-1458-1323,Wisconsin,Notre Dame,0.66
+2022-1458-1308,Wisconsin,New Mexico St,0.695
+2022-1458-1436,Wisconsin,Vermont,0.77
+2022-1458-1286,Wisconsin,Montana St,0.89
+2022-1458-1168,Wisconsin,CS Fullerton,0.87
+2022-1458-1209,Wisconsin,Georgia St,0.975
+2022-1344-1234,Providence,Iowa,0.67
+2022-1344-1261,Providence,LSU,0.63
+2022-1344-1425,Providence,USC,0.46
+2022-1344-1361,Providence,San Diego St,0.57
+2022-1344-1166,Providence,Creighton,0.58
+2022-1344-1274,Providence,Miami FL,0.605
+2022-1344-1235,Providence,Iowa St,0.385
+2022-1344-1350,Providence,Richmond,0.765
+2022-1344-1355,Providence,S Dakota St,0.66
+2022-1344-1159,Providence,Colgate,0.91
+2022-1344-1240,Providence,Jacksonville St,0.94
+2022-1344-1411,Providence,TX Southern,0.95
+2022-1344-1394,Providence,TAM C. Christi,0.94
+2022-1344-1112,Providence,Arizona,0.775
+2022-1344-1437,Providence,Villanova,0.85
+2022-1344-1397,Providence,Tennessee,0.57
+2022-1344-1228,Providence,Illinois,0.63
+2022-1344-1222,Providence,Houston,0.87
+2022-1344-1161,Providence,Colorado St,0.49
+2022-1344-1326,Providence,Ohio St,0.59
+2022-1344-1371,Providence,Seton Hall,0.23
+2022-1344-1395,Providence,TCU,0.23
+2022-1344-1260,Providence,Loyola-Chicago,0.415
+2022-1344-1276,Providence,Michigan,0.495
+2022-1344-1412,Providence,UAB,0.665
+2022-1344-1151,Providence,Chattanooga,0.685
+2022-1344-1255,Providence,Longwood,0.96
+2022-1344-1174,Providence,Delaware,0.94
+2022-1344-1460,Providence,Wright St,0.94
+2022-1344-1136,Providence,Bryant,0.955
+2022-1344-1211,Providence,Gonzaga,0.685
+2022-1344-1181,Providence,Duke,0.76
+2022-1344-1403,Providence,Texas Tech,0.56
+2022-1344-1116,Providence,Arkansas,0.775
+2022-1344-1163,Providence,Connecticut,0.685
+2022-1344-1104,Providence,Alabama,0.77
+2022-1344-1277,Providence,Michigan St,0.505
+2022-1344-1129,Providence,Boise St,0.39
+2022-1344-1272,Providence,Memphis,0.535
+2022-1344-1172,Providence,Davidson,0.665
+2022-1344-1353,Providence,Rutgers,0.75
+2022-1344-1323,Providence,Notre Dame,0.705
+2022-1344-1308,Providence,New Mexico St,0.765
+2022-1344-1436,Providence,Vermont,0.77
+2022-1344-1286,Providence,Montana St,0.945
+2022-1344-1168,Providence,CS Fullerton,0.975
+2022-1344-1209,Providence,Georgia St,0.965
+2022-1234-1261,Iowa,LSU,0.6
+2022-1234-1425,Iowa,USC,0.91
+2022-1234-1361,Iowa,San Diego St,0.69
+2022-1234-1166,Iowa,Creighton,0.705
+2022-1234-1274,Iowa,Miami FL,0.99
+2022-1234-1235,Iowa,Iowa St,0.63
+2022-1234-1350,Iowa,Richmond,0.995
+2022-1234-1355,Iowa,S Dakota St,0.975
+2022-1234-1159,Iowa,Colgate,1.0
+2022-1234-1240,Iowa,Jacksonville St,0.92
+2022-1234-1411,Iowa,TX Southern,0.91
+2022-1234-1394,Iowa,TAM C. Christi,0.94
+2022-1234-1112,Iowa,Arizona,0.44
+2022-1234-1437,Iowa,Villanova,0.865
+2022-1234-1397,Iowa,Tennessee,0.535
+2022-1234-1228,Iowa,Illinois,0.795
+2022-1234-1222,Iowa,Houston,0.71
+2022-1234-1161,Iowa,Colorado St,0.965
+2022-1234-1326,Iowa,Ohio St,0.935
+2022-1234-1371,Iowa,Seton Hall,0.825
+2022-1234-1395,Iowa,TCU,0.765
+2022-1234-1260,Iowa,Loyola-Chicago,0.76
+2022-1234-1276,Iowa,Michigan,0.935
+2022-1234-1412,Iowa,UAB,0.955
+2022-1234-1151,Iowa,Chattanooga,1.0
+2022-1234-1255,Iowa,Longwood,1.0
+2022-1234-1174,Iowa,Delaware,0.92
+2022-1234-1460,Iowa,Wright St,0.995
+2022-1234-1136,Iowa,Bryant,0.94
+2022-1234-1211,Iowa,Gonzaga,0.575
+2022-1234-1181,Iowa,Duke,0.795
+2022-1234-1403,Iowa,Texas Tech,0.58
+2022-1234-1116,Iowa,Arkansas,0.715
+2022-1234-1163,Iowa,Connecticut,0.89
+2022-1234-1104,Iowa,Alabama,0.655
+2022-1234-1277,Iowa,Michigan St,0.79
+2022-1234-1129,Iowa,Boise St,0.72
+2022-1234-1272,Iowa,Memphis,0.67
+2022-1234-1172,Iowa,Davidson,0.99
+2022-1234-1353,Iowa,Rutgers,0.935
+2022-1234-1323,Iowa,Notre Dame,0.975
+2022-1234-1308,Iowa,New Mexico St,0.845
+2022-1234-1436,Iowa,Vermont,0.97
+2022-1234-1286,Iowa,Montana St,0.92
+2022-1234-1168,Iowa,CS Fullerton,0.935
+2022-1234-1209,Iowa,Georgia St,0.995
+2022-1261-1425,LSU,USC,0.885
+2022-1261-1361,LSU,San Diego St,0.67
+2022-1261-1166,LSU,Creighton,0.92
+2022-1261-1274,LSU,Miami FL,0.635
+2022-1261-1235,LSU,Iowa St,0.91
+2022-1261-1350,LSU,Richmond,0.8
+2022-1261-1355,LSU,S Dakota St,0.685
+2022-1261-1159,LSU,Colgate,0.94
+2022-1261-1240,LSU,Jacksonville St,0.95
+2022-1261-1411,LSU,TX Southern,0.995
+2022-1261-1394,LSU,TAM C. Christi,0.985
+2022-1261-1112,LSU,Arizona,0.78
+2022-1261-1437,LSU,Villanova,0.72
+2022-1261-1397,LSU,Tennessee,0.725
+2022-1261-1228,LSU,Illinois,0.675
+2022-1261-1222,LSU,Houston,0.72
+2022-1261-1161,LSU,Colorado St,0.665
+2022-1261-1326,LSU,Ohio St,0.625
+2022-1261-1371,LSU,Seton Hall,0.86
+2022-1261-1395,LSU,TCU,0.915
+2022-1261-1260,LSU,Loyola-Chicago,0.84
+2022-1261-1276,LSU,Michigan,0.685
+2022-1261-1412,LSU,UAB,0.715
+2022-1261-1151,LSU,Chattanooga,0.9
+2022-1261-1255,LSU,Longwood,0.94
+2022-1261-1174,LSU,Delaware,0.915
+2022-1261-1460,LSU,Wright St,0.915
+2022-1261-1136,LSU,Bryant,0.96
+2022-1261-1211,LSU,Gonzaga,0.695
+2022-1261-1181,LSU,Duke,0.675
+2022-1261-1403,LSU,Texas Tech,0.815
+2022-1261-1116,LSU,Arkansas,0.715
+2022-1261-1163,LSU,Connecticut,0.76
+2022-1261-1104,LSU,Alabama,0.575
+2022-1261-1277,LSU,Michigan St,0.875
+2022-1261-1129,LSU,Boise St,0.93
+2022-1261-1272,LSU,Memphis,0.755
+2022-1261-1172,LSU,Davidson,0.575
+2022-1261-1353,LSU,Rutgers,0.93
+2022-1261-1323,LSU,Notre Dame,0.795
+2022-1261-1308,LSU,New Mexico St,0.95
+2022-1261-1436,LSU,Vermont,0.725
+2022-1261-1286,LSU,Montana St,0.985
+2022-1261-1168,LSU,CS Fullerton,0.955
+2022-1261-1209,LSU,Georgia St,0.99
+2022-1425-1361,USC,San Diego St,0.575
+2022-1425-1166,USC,Creighton,0.65
+2022-1425-1274,USC,Miami FL,0.57
+2022-1425-1235,USC,Iowa St,0.605
+2022-1425-1350,USC,Richmond,0.86
+2022-1425-1355,USC,S Dakota St,0.765
+2022-1425-1159,USC,Colgate,0.94
+2022-1425-1240,USC,Jacksonville St,0.93
+2022-1425-1411,USC,TX Southern,0.96
+2022-1425-1394,USC,TAM C. Christi,0.94
+2022-1425-1112,USC,Arizona,0.78
+2022-1425-1437,USC,Villanova,0.805
+2022-1425-1397,USC,Tennessee,0.66
+2022-1425-1228,USC,Illinois,0.625
+2022-1425-1222,USC,Houston,0.89
+2022-1425-1161,USC,Colorado St,0.665
+2022-1425-1326,USC,Ohio St,0.525
+2022-1425-1371,USC,Seton Hall,0.385
+2022-1425-1395,USC,TCU,0.59
+2022-1425-1260,USC,Loyola-Chicago,0.485
+2022-1425-1276,USC,Michigan,0.58
+2022-1425-1412,USC,UAB,0.64
+2022-1425-1151,USC,Chattanooga,0.855
+2022-1425-1255,USC,Longwood,0.945
+2022-1425-1174,USC,Delaware,0.935
+2022-1425-1460,USC,Wright St,0.96
+2022-1425-1136,USC,Bryant,0.965
+2022-1425-1211,USC,Gonzaga,0.695
+2022-1425-1181,USC,Duke,0.77
+2022-1425-1403,USC,Texas Tech,0.575
+2022-1425-1116,USC,Arkansas,0.73
+2022-1425-1163,USC,Connecticut,0.595
+2022-1425-1104,USC,Alabama,0.78
+2022-1425-1277,USC,Michigan St,0.615
+2022-1425-1129,USC,Boise St,0.555
+2022-1425-1272,USC,Memphis,0.555
+2022-1425-1172,USC,Davidson,0.71
+2022-1425-1353,USC,Rutgers,0.85
+2022-1425-1323,USC,Notre Dame,0.67
+2022-1425-1308,USC,New Mexico St,0.87
+2022-1425-1436,USC,Vermont,0.78
+2022-1425-1286,USC,Montana St,0.96
+2022-1425-1168,USC,CS Fullerton,0.965
+2022-1425-1209,USC,Georgia St,0.95
+2022-1361-1166,San Diego St,Creighton,0.85
+2022-1361-1274,San Diego St,Miami FL,0.605
+2022-1361-1235,San Diego St,Iowa St,0.8
+2022-1361-1350,San Diego St,Richmond,0.71
+2022-1361-1355,San Diego St,S Dakota St,0.73
+2022-1361-1159,San Diego St,Colgate,0.875
+2022-1361-1240,San Diego St,Jacksonville St,0.9
+2022-1361-1411,San Diego St,TX Southern,0.985
+2022-1361-1394,San Diego St,TAM C. Christi,0.965
+2022-1361-1112,San Diego St,Arizona,0.77
+2022-1361-1437,San Diego St,Villanova,0.715
+2022-1361-1397,San Diego St,Tennessee,0.72
+2022-1361-1228,San Diego St,Illinois,0.725
+2022-1361-1222,San Diego St,Houston,0.75
+2022-1361-1161,San Diego St,Colorado St,0.62
+2022-1361-1326,San Diego St,Ohio St,0.57
+2022-1361-1371,San Diego St,Seton Hall,0.755
+2022-1361-1395,San Diego St,TCU,0.735
+2022-1361-1260,San Diego St,Loyola-Chicago,0.585
+2022-1361-1276,San Diego St,Michigan,0.555
+2022-1361-1412,San Diego St,UAB,0.695
+2022-1361-1151,San Diego St,Chattanooga,0.83
+2022-1361-1255,San Diego St,Longwood,0.89
+2022-1361-1174,San Diego St,Delaware,0.875
+2022-1361-1460,San Diego St,Wright St,0.93
+2022-1361-1136,San Diego St,Bryant,0.92
+2022-1361-1211,San Diego St,Gonzaga,0.695
+2022-1361-1181,San Diego St,Duke,0.7
+2022-1361-1403,San Diego St,Texas Tech,0.745
+2022-1361-1116,San Diego St,Arkansas,0.77
+2022-1361-1163,San Diego St,Connecticut,0.69
+2022-1361-1104,San Diego St,Alabama,0.695
+2022-1361-1277,San Diego St,Michigan St,0.645
+2022-1361-1129,San Diego St,Boise St,0.64
+2022-1361-1272,San Diego St,Memphis,0.56
+2022-1361-1172,San Diego St,Davidson,0.615
+2022-1361-1353,San Diego St,Rutgers,0.855
+2022-1361-1323,San Diego St,Notre Dame,0.675
+2022-1361-1308,San Diego St,New Mexico St,0.795
+2022-1361-1436,San Diego St,Vermont,0.68
+2022-1361-1286,San Diego St,Montana St,0.94
+2022-1361-1168,San Diego St,CS Fullerton,0.91
+2022-1361-1209,San Diego St,Georgia St,0.98
+2022-1166-1274,Creighton,Miami FL,0.62
+2022-1166-1235,Creighton,Iowa St,0.52
+2022-1166-1350,Creighton,Richmond,0.605
+2022-1166-1355,Creighton,S Dakota St,0.64
+2022-1166-1159,Creighton,Colgate,0.85
+2022-1166-1240,Creighton,Jacksonville St,0.89
+2022-1166-1411,Creighton,TX Southern,0.955
+2022-1166-1394,Creighton,TAM C. Christi,0.915
+2022-1166-1112,Creighton,Arizona,0.72
+2022-1166-1437,Creighton,Villanova,0.625
+2022-1166-1397,Creighton,Tennessee,0.85
+2022-1166-1228,Creighton,Illinois,0.71
+2022-1166-1222,Creighton,Houston,0.65
+2022-1166-1161,Creighton,Colorado St,0.62
+2022-1166-1326,Creighton,Ohio St,0.695
+2022-1166-1371,Creighton,Seton Hall,0.57
+2022-1166-1395,Creighton,TCU,0.615
+2022-1166-1260,Creighton,Loyola-Chicago,0.705
+2022-1166-1276,Creighton,Michigan,0.71
+2022-1166-1412,Creighton,UAB,0.675
+2022-1166-1151,Creighton,Chattanooga,0.635
+2022-1166-1255,Creighton,Longwood,0.88
+2022-1166-1174,Creighton,Delaware,0.885
+2022-1166-1460,Creighton,Wright St,0.92
+2022-1166-1136,Creighton,Bryant,0.94
+2022-1166-1211,Creighton,Gonzaga,0.62
+2022-1166-1181,Creighton,Duke,0.67
+2022-1166-1403,Creighton,Texas Tech,0.8
+2022-1166-1116,Creighton,Arkansas,0.71
+2022-1166-1163,Creighton,Connecticut,0.62
+2022-1166-1104,Creighton,Alabama,0.92
+2022-1166-1277,Creighton,Michigan St,0.73
+2022-1166-1129,Creighton,Boise St,0.695
+2022-1166-1272,Creighton,Memphis,0.67
+2022-1166-1172,Creighton,Davidson,0.595
+2022-1166-1353,Creighton,Rutgers,0.725
+2022-1166-1323,Creighton,Notre Dame,0.58
+2022-1166-1308,Creighton,New Mexico St,0.75
+2022-1166-1436,Creighton,Vermont,0.585
+2022-1166-1286,Creighton,Montana St,0.915
+2022-1166-1168,Creighton,CS Fullerton,0.92
+2022-1166-1209,Creighton,Georgia St,0.795
+2022-1274-1235,Miami FL,Iowa St,0.58
+2022-1274-1350,Miami FL,Richmond,0.595
+2022-1274-1355,Miami FL,S Dakota St,0.605
+2022-1274-1159,Miami FL,Colgate,0.9
+2022-1274-1240,Miami FL,Jacksonville St,0.895
+2022-1274-1411,Miami FL,TX Southern,0.845
+2022-1274-1394,Miami FL,TAM C. Christi,0.89
+2022-1274-1112,Miami FL,Arizona,0.655
+2022-1274-1437,Miami FL,Villanova,0.765
+2022-1274-1397,Miami FL,Tennessee,0.545
+2022-1274-1228,Miami FL,Illinois,0.535
+2022-1274-1222,Miami FL,Houston,0.66
+2022-1274-1161,Miami FL,Colorado St,0.495
+2022-1274-1326,Miami FL,Ohio St,0.55
+2022-1274-1371,Miami FL,Seton Hall,0.31
+2022-1274-1395,Miami FL,TCU,0.37
+2022-1274-1260,Miami FL,Loyola-Chicago,0.61
+2022-1274-1276,Miami FL,Michigan,0.365
+2022-1274-1412,Miami FL,UAB,0.22
+2022-1274-1151,Miami FL,Chattanooga,0.815
+2022-1274-1255,Miami FL,Longwood,0.915
+2022-1274-1174,Miami FL,Delaware,0.92
+2022-1274-1460,Miami FL,Wright St,0.93
+2022-1274-1136,Miami FL,Bryant,0.935
+2022-1274-1211,Miami FL,Gonzaga,0.685
+2022-1274-1181,Miami FL,Duke,0.805
+2022-1274-1403,Miami FL,Texas Tech,0.59
+2022-1274-1116,Miami FL,Arkansas,0.655
+2022-1274-1163,Miami FL,Connecticut,0.59
+2022-1274-1104,Miami FL,Alabama,0.68
+2022-1274-1277,Miami FL,Michigan St,0.205
+2022-1274-1129,Miami FL,Boise St,0.495
+2022-1274-1272,Miami FL,Memphis,0.535
+2022-1274-1172,Miami FL,Davidson,0.655
+2022-1274-1353,Miami FL,Rutgers,0.69
+2022-1274-1323,Miami FL,Notre Dame,0.315
+2022-1274-1308,Miami FL,New Mexico St,0.615
+2022-1274-1436,Miami FL,Vermont,0.59
+2022-1274-1286,Miami FL,Montana St,0.87
+2022-1274-1168,Miami FL,CS Fullerton,0.93
+2022-1274-1209,Miami FL,Georgia St,0.905
+2022-1235-1350,Iowa St,Richmond,0.625
+2022-1235-1355,Iowa St,S Dakota St,0.62
+2022-1235-1159,Iowa St,Colgate,0.88
+2022-1235-1240,Iowa St,Jacksonville St,0.845
+2022-1235-1411,Iowa St,TX Southern,0.95
+2022-1235-1394,Iowa St,TAM C. Christi,0.935
+2022-1235-1112,Iowa St,Arizona,0.685
+2022-1235-1437,Iowa St,Villanova,0.63
+2022-1235-1397,Iowa St,Tennessee,0.825
+2022-1235-1228,Iowa St,Illinois,0.735
+2022-1235-1222,Iowa St,Houston,0.64
+2022-1235-1161,Iowa St,Colorado St,0.625
+2022-1235-1326,Iowa St,Ohio St,0.7
+2022-1235-1371,Iowa St,Seton Hall,0.735
+2022-1235-1395,Iowa St,TCU,0.685
+2022-1235-1260,Iowa St,Loyola-Chicago,0.715
+2022-1235-1276,Iowa St,Michigan,0.7
+2022-1235-1412,Iowa St,UAB,0.645
+2022-1235-1151,Iowa St,Chattanooga,0.635
+2022-1235-1255,Iowa St,Longwood,0.875
+2022-1235-1174,Iowa St,Delaware,0.875
+2022-1235-1460,Iowa St,Wright St,0.93
+2022-1235-1136,Iowa St,Bryant,0.95
+2022-1235-1211,Iowa St,Gonzaga,0.61
+2022-1235-1181,Iowa St,Duke,0.645
+2022-1235-1403,Iowa St,Texas Tech,0.855
+2022-1235-1116,Iowa St,Arkansas,0.835
+2022-1235-1163,Iowa St,Connecticut,0.72
+2022-1235-1104,Iowa St,Alabama,0.895
+2022-1235-1277,Iowa St,Michigan St,0.71
+2022-1235-1129,Iowa St,Boise St,0.65
+2022-1235-1272,Iowa St,Memphis,0.735
+2022-1235-1172,Iowa St,Davidson,0.61
+2022-1235-1353,Iowa St,Rutgers,0.795
+2022-1235-1323,Iowa St,Notre Dame,0.64
+2022-1235-1308,Iowa St,New Mexico St,0.73
+2022-1235-1436,Iowa St,Vermont,0.65
+2022-1235-1286,Iowa St,Montana St,0.935
+2022-1235-1168,Iowa St,CS Fullerton,0.895
+2022-1235-1209,Iowa St,Georgia St,0.815
+2022-1350-1355,Richmond,S Dakota St,0.595
+2022-1350-1159,Richmond,Colgate,0.65
+2022-1350-1240,Richmond,Jacksonville St,0.655
+2022-1350-1411,Richmond,TX Southern,0.82
+2022-1350-1394,Richmond,TAM C. Christi,0.87
+2022-1350-1112,Richmond,Arizona,0.675
+2022-1350-1437,Richmond,Villanova,0.795
+2022-1350-1397,Richmond,Tennessee,0.61
+2022-1350-1228,Richmond,Illinois,0.55
+2022-1350-1222,Richmond,Houston,0.77
+2022-1350-1161,Richmond,Colorado St,0.69
+2022-1350-1326,Richmond,Ohio St,0.605
+2022-1350-1371,Richmond,Seton Hall,0.38
+2022-1350-1395,Richmond,TCU,0.41
+2022-1350-1260,Richmond,Loyola-Chicago,0.54
+2022-1350-1276,Richmond,Michigan,0.575
+2022-1350-1412,Richmond,UAB,0.55
+2022-1350-1151,Richmond,Chattanooga,0.475
+2022-1350-1255,Richmond,Longwood,0.66
+2022-1350-1174,Richmond,Delaware,0.665
+2022-1350-1460,Richmond,Wright St,0.765
+2022-1350-1136,Richmond,Bryant,0.875
+2022-1350-1211,Richmond,Gonzaga,0.715
+2022-1350-1181,Richmond,Duke,0.78
+2022-1350-1403,Richmond,Texas Tech,0.565
+2022-1350-1116,Richmond,Arkansas,0.58
+2022-1350-1163,Richmond,Connecticut,0.67
+2022-1350-1104,Richmond,Alabama,0.62
+2022-1350-1277,Richmond,Michigan St,0.43
+2022-1350-1129,Richmond,Boise St,0.5
+2022-1350-1272,Richmond,Memphis,0.46
+2022-1350-1172,Richmond,Davidson,0.755
+2022-1350-1353,Richmond,Rutgers,0.255
+2022-1350-1323,Richmond,Notre Dame,0.545
+2022-1350-1308,Richmond,New Mexico St,0.37
+2022-1350-1436,Richmond,Vermont,0.59
+2022-1350-1286,Richmond,Montana St,0.745
+2022-1350-1168,Richmond,CS Fullerton,0.71
+2022-1350-1209,Richmond,Georgia St,0.83
+2022-1355-1159,S Dakota St,Colgate,0.825
+2022-1355-1240,S Dakota St,Jacksonville St,0.825
+2022-1355-1411,S Dakota St,TX Southern,0.855
+2022-1355-1394,S Dakota St,TAM C. Christi,0.865
+2022-1355-1112,S Dakota St,Arizona,0.63
+2022-1355-1437,S Dakota St,Villanova,0.69
+2022-1355-1397,S Dakota St,Tennessee,0.615
+2022-1355-1228,S Dakota St,Illinois,0.72
+2022-1355-1222,S Dakota St,Houston,0.595
+2022-1355-1161,S Dakota St,Colorado St,0.52
+2022-1355-1326,S Dakota St,Ohio St,0.525
+2022-1355-1371,S Dakota St,Seton Hall,0.59
+2022-1355-1395,S Dakota St,TCU,0.645
+2022-1355-1260,S Dakota St,Loyola-Chicago,0.615
+2022-1355-1276,S Dakota St,Michigan,0.44
+2022-1355-1412,S Dakota St,UAB,0.21
+2022-1355-1151,S Dakota St,Chattanooga,0.68
+2022-1355-1255,S Dakota St,Longwood,0.81
+2022-1355-1174,S Dakota St,Delaware,0.81
+2022-1355-1460,S Dakota St,Wright St,0.89
+2022-1355-1136,S Dakota St,Bryant,0.88
+2022-1355-1211,S Dakota St,Gonzaga,0.685
+2022-1355-1181,S Dakota St,Duke,0.785
+2022-1355-1403,S Dakota St,Texas Tech,0.57
+2022-1355-1116,S Dakota St,Arkansas,0.645
+2022-1355-1163,S Dakota St,Connecticut,0.67
+2022-1355-1104,S Dakota St,Alabama,0.44
+2022-1355-1277,S Dakota St,Michigan St,0.44
+2022-1355-1129,S Dakota St,Boise St,0.695
+2022-1355-1272,S Dakota St,Memphis,0.6
+2022-1355-1172,S Dakota St,Davidson,0.565
+2022-1355-1353,S Dakota St,Rutgers,0.75
+2022-1355-1323,S Dakota St,Notre Dame,0.305
+2022-1355-1308,S Dakota St,New Mexico St,0.715
+2022-1355-1436,S Dakota St,Vermont,0.47
+2022-1355-1286,S Dakota St,Montana St,0.83
+2022-1355-1168,S Dakota St,CS Fullerton,0.84
+2022-1355-1209,S Dakota St,Georgia St,0.85
+2022-1159-1240,Colgate,Jacksonville St,0.47
+2022-1159-1411,Colgate,TX Southern,0.655
+2022-1159-1394,Colgate,TAM C. Christi,0.66
+2022-1159-1112,Colgate,Arizona,0.71
+2022-1159-1437,Colgate,Villanova,0.7
+2022-1159-1397,Colgate,Tennessee,0.7
+2022-1159-1228,Colgate,Illinois,0.675
+2022-1159-1222,Colgate,Houston,0.725
+2022-1159-1161,Colgate,Colorado St,0.655
+2022-1159-1326,Colgate,Ohio St,0.61
+2022-1159-1371,Colgate,Seton Hall,0.565
+2022-1159-1395,Colgate,TCU,0.605
+2022-1159-1260,Colgate,Loyola-Chicago,0.73
+2022-1159-1276,Colgate,Michigan,0.61
+2022-1159-1412,Colgate,UAB,0.52
+2022-1159-1151,Colgate,Chattanooga,0.525
+2022-1159-1255,Colgate,Longwood,0.54
+2022-1159-1174,Colgate,Delaware,0.44
+2022-1159-1460,Colgate,Wright St,0.69
+2022-1159-1136,Colgate,Bryant,0.795
+2022-1159-1211,Colgate,Gonzaga,0.71
+2022-1159-1181,Colgate,Duke,0.705
+2022-1159-1403,Colgate,Texas Tech,0.625
+2022-1159-1116,Colgate,Arkansas,0.675
+2022-1159-1163,Colgate,Connecticut,0.71
+2022-1159-1104,Colgate,Alabama,0.505
+2022-1159-1277,Colgate,Michigan St,0.505
+2022-1159-1129,Colgate,Boise St,0.745
+2022-1159-1272,Colgate,Memphis,0.58
+2022-1159-1172,Colgate,Davidson,0.61
+2022-1159-1353,Colgate,Rutgers,0.545
+2022-1159-1323,Colgate,Notre Dame,0.615
+2022-1159-1308,Colgate,New Mexico St,0.47
+2022-1159-1436,Colgate,Vermont,0.63
+2022-1159-1286,Colgate,Montana St,0.52
+2022-1159-1168,Colgate,CS Fullerton,0.495
+2022-1159-1209,Colgate,Georgia St,0.495
+2022-1240-1411,Jacksonville St,TX Southern,0.7
+2022-1240-1394,Jacksonville St,TAM C. Christi,0.685
+2022-1240-1112,Jacksonville St,Arizona,0.72
+2022-1240-1437,Jacksonville St,Villanova,0.655
+2022-1240-1397,Jacksonville St,Tennessee,0.695
+2022-1240-1228,Jacksonville St,Illinois,0.605
+2022-1240-1222,Jacksonville St,Houston,0.745
+2022-1240-1161,Jacksonville St,Colorado St,0.52
+2022-1240-1326,Jacksonville St,Ohio St,0.495
+2022-1240-1371,Jacksonville St,Seton Hall,0.57
+2022-1240-1395,Jacksonville St,TCU,0.575
+2022-1240-1260,Jacksonville St,Loyola-Chicago,0.615
+2022-1240-1276,Jacksonville St,Michigan,0.52
+2022-1240-1412,Jacksonville St,UAB,0.505
+2022-1240-1151,Jacksonville St,Chattanooga,0.595
+2022-1240-1255,Jacksonville St,Longwood,0.47
+2022-1240-1174,Jacksonville St,Delaware,0.44
+2022-1240-1460,Jacksonville St,Wright St,0.67
+2022-1240-1136,Jacksonville St,Bryant,0.745
+2022-1240-1211,Jacksonville St,Gonzaga,0.705
+2022-1240-1181,Jacksonville St,Duke,0.6
+2022-1240-1403,Jacksonville St,Texas Tech,0.69
+2022-1240-1116,Jacksonville St,Arkansas,0.645
+2022-1240-1163,Jacksonville St,Connecticut,0.56
+2022-1240-1104,Jacksonville St,Alabama,0.5
+2022-1240-1277,Jacksonville St,Michigan St,0.53
+2022-1240-1129,Jacksonville St,Boise St,0.685
+2022-1240-1272,Jacksonville St,Memphis,0.535
+2022-1240-1172,Jacksonville St,Davidson,0.525
+2022-1240-1353,Jacksonville St,Rutgers,0.545
+2022-1240-1323,Jacksonville St,Notre Dame,0.53
+2022-1240-1308,Jacksonville St,New Mexico St,0.54
+2022-1240-1436,Jacksonville St,Vermont,0.495
+2022-1240-1286,Jacksonville St,Montana St,0.54
+2022-1240-1168,Jacksonville St,CS Fullerton,0.5
+2022-1240-1209,Jacksonville St,Georgia St,0.59
+2022-1411-1394,TX Southern,TAM C. Christi,0.655
+2022-1411-1112,TX Southern,Arizona,0.72
+2022-1411-1437,TX Southern,Villanova,0.54
+2022-1411-1397,TX Southern,Tennessee,0.71
+2022-1411-1228,TX Southern,Illinois,0.595
+2022-1411-1222,TX Southern,Houston,0.63
+2022-1411-1161,TX Southern,Colorado St,0.505
+2022-1411-1326,TX Southern,Ohio St,0.54
+2022-1411-1371,TX Southern,Seton Hall,0.485
+2022-1411-1395,TX Southern,TCU,0.59
+2022-1411-1260,TX Southern,Loyola-Chicago,0.565
+2022-1411-1276,TX Southern,Michigan,0.54
+2022-1411-1412,TX Southern,UAB,0.42
+2022-1411-1151,TX Southern,Chattanooga,0.5
+2022-1411-1255,TX Southern,Longwood,0.435
+2022-1411-1174,TX Southern,Delaware,0.48
+2022-1411-1460,TX Southern,Wright St,0.35
+2022-1411-1136,TX Southern,Bryant,0.655
+2022-1411-1211,TX Southern,Gonzaga,0.625
+2022-1411-1181,TX Southern,Duke,0.55
+2022-1411-1403,TX Southern,Texas Tech,0.735
+2022-1411-1116,TX Southern,Arkansas,0.525
+2022-1411-1163,TX Southern,Connecticut,0.555
+2022-1411-1104,TX Southern,Alabama,0.575
+2022-1411-1277,TX Southern,Michigan St,0.475
+2022-1411-1129,TX Southern,Boise St,0.595
+2022-1411-1272,TX Southern,Memphis,0.505
+2022-1411-1172,TX Southern,Davidson,0.515
+2022-1411-1353,TX Southern,Rutgers,0.57
+2022-1411-1323,TX Southern,Notre Dame,0.435
+2022-1411-1308,TX Southern,New Mexico St,0.585
+2022-1411-1436,TX Southern,Vermont,0.455
+2022-1411-1286,TX Southern,Montana St,0.54
+2022-1411-1168,TX Southern,CS Fullerton,0.52
+2022-1411-1209,TX Southern,Georgia St,0.535
+2022-1394-1112,TAM C. Christi,Arizona,0.74
+2022-1394-1437,TAM C. Christi,Villanova,0.685
+2022-1394-1397,TAM C. Christi,Tennessee,0.74
+2022-1394-1228,TAM C. Christi,Illinois,0.655
+2022-1394-1222,TAM C. Christi,Houston,0.725
+2022-1394-1161,TAM C. Christi,Colorado St,0.565
+2022-1394-1326,TAM C. Christi,Ohio St,0.56
+2022-1394-1371,TAM C. Christi,Seton Hall,0.585
+2022-1394-1395,TAM C. Christi,TCU,0.57
+2022-1394-1260,TAM C. Christi,Loyola-Chicago,0.6
+2022-1394-1276,TAM C. Christi,Michigan,0.58
+2022-1394-1412,TAM C. Christi,UAB,0.52
+2022-1394-1151,TAM C. Christi,Chattanooga,0.57
+2022-1394-1255,TAM C. Christi,Longwood,0.675
+2022-1394-1174,TAM C. Christi,Delaware,0.65
+2022-1394-1460,TAM C. Christi,Wright St,0.52
+2022-1394-1136,TAM C. Christi,Bryant,0.575
+2022-1394-1211,TAM C. Christi,Gonzaga,0.715
+2022-1394-1181,TAM C. Christi,Duke,0.62
+2022-1394-1403,TAM C. Christi,Texas Tech,0.735
+2022-1394-1116,TAM C. Christi,Arkansas,0.63
+2022-1394-1163,TAM C. Christi,Connecticut,0.605
+2022-1394-1104,TAM C. Christi,Alabama,0.575
+2022-1394-1277,TAM C. Christi,Michigan St,0.595
+2022-1394-1129,TAM C. Christi,Boise St,0.575
+2022-1394-1272,TAM C. Christi,Memphis,0.515
+2022-1394-1172,TAM C. Christi,Davidson,0.52
+2022-1394-1353,TAM C. Christi,Rutgers,0.545
+2022-1394-1323,TAM C. Christi,Notre Dame,0.58
+2022-1394-1308,TAM C. Christi,New Mexico St,0.585
+2022-1394-1436,TAM C. Christi,Vermont,0.535
+2022-1394-1286,TAM C. Christi,Montana St,0.7
+2022-1394-1168,TAM C. Christi,CS Fullerton,0.625
+2022-1394-1209,TAM C. Christi,Georgia St,0.665
+2022-1112-1437,Arizona,Villanova,0.825
+2022-1112-1397,Arizona,Tennessee,0.89
+2022-1112-1228,Arizona,Illinois,0.92
+2022-1112-1222,Arizona,Houston,0.915
+2022-1112-1161,Arizona,Colorado St,0.99
+2022-1112-1326,Arizona,Ohio St,0.965
+2022-1112-1371,Arizona,Seton Hall,0.99
+2022-1112-1395,Arizona,TCU,0.975
+2022-1112-1260,Arizona,Loyola-Chicago,0.975
+2022-1112-1276,Arizona,Michigan,0.98
+2022-1112-1412,Arizona,UAB,1.0
+2022-1112-1151,Arizona,Chattanooga,0.995
+2022-1112-1255,Arizona,Longwood,1.0
+2022-1112-1174,Arizona,Delaware,1.0
+2022-1112-1460,Arizona,Wright St,1.0
+2022-1112-1136,Arizona,Bryant,0.995
+2022-1112-1211,Arizona,Gonzaga,0.6
+2022-1112-1181,Arizona,Duke,0.775
+2022-1112-1403,Arizona,Texas Tech,0.865
+2022-1112-1116,Arizona,Arkansas,0.86
+2022-1112-1163,Arizona,Connecticut,0.925
+2022-1112-1104,Arizona,Alabama,0.975
+2022-1112-1277,Arizona,Michigan St,1.0
+2022-1112-1129,Arizona,Boise St,0.92
+2022-1112-1272,Arizona,Memphis,0.96
+2022-1112-1172,Arizona,Davidson,0.96
+2022-1112-1353,Arizona,Rutgers,1.0
+2022-1112-1323,Arizona,Notre Dame,1.0
+2022-1112-1308,Arizona,New Mexico St,1.0
+2022-1112-1436,Arizona,Vermont,0.99
+2022-1112-1286,Arizona,Montana St,1.0
+2022-1112-1168,Arizona,CS Fullerton,1.0
+2022-1112-1209,Arizona,Georgia St,0.995
+2022-1437-1397,Villanova,Tennessee,0.715
+2022-1437-1228,Villanova,Illinois,0.865
+2022-1437-1222,Villanova,Houston,0.5
+2022-1437-1161,Villanova,Colorado St,0.955
+2022-1437-1326,Villanova,Ohio St,0.925
+2022-1437-1371,Villanova,Seton Hall,0.95
+2022-1437-1395,Villanova,TCU,0.805
+2022-1437-1260,Villanova,Loyola-Chicago,0.875
+2022-1437-1276,Villanova,Michigan,0.935
+2022-1437-1412,Villanova,UAB,0.99
+2022-1437-1151,Villanova,Chattanooga,1.0
+2022-1437-1255,Villanova,Longwood,1.0
+2022-1437-1174,Villanova,Delaware,1.0
+2022-1437-1460,Villanova,Wright St,1.0
+2022-1437-1136,Villanova,Bryant,0.985
+2022-1437-1211,Villanova,Gonzaga,0.63
+2022-1437-1181,Villanova,Duke,0.795
+2022-1437-1403,Villanova,Texas Tech,0.55
+2022-1437-1116,Villanova,Arkansas,0.84
+2022-1437-1163,Villanova,Connecticut,0.84
+2022-1437-1104,Villanova,Alabama,0.89
+2022-1437-1277,Villanova,Michigan St,0.955
+2022-1437-1129,Villanova,Boise St,0.86
+2022-1437-1272,Villanova,Memphis,0.74
+2022-1437-1172,Villanova,Davidson,0.97
+2022-1437-1353,Villanova,Rutgers,0.995
+2022-1437-1323,Villanova,Notre Dame,0.985
+2022-1437-1308,Villanova,New Mexico St,0.99
+2022-1437-1436,Villanova,Vermont,0.99
+2022-1437-1286,Villanova,Montana St,1.0
+2022-1437-1168,Villanova,CS Fullerton,1.0
+2022-1437-1209,Villanova,Georgia St,0.975
+2022-1397-1228,Tennessee,Illinois,0.77
+2022-1397-1222,Tennessee,Houston,0.68
+2022-1397-1161,Tennessee,Colorado St,0.875
+2022-1397-1326,Tennessee,Ohio St,0.77
+2022-1397-1371,Tennessee,Seton Hall,0.97
+2022-1397-1395,Tennessee,TCU,0.965
+2022-1397-1260,Tennessee,Loyola-Chicago,0.945
+2022-1397-1276,Tennessee,Michigan,0.85
+2022-1397-1412,Tennessee,UAB,0.99
+2022-1397-1151,Tennessee,Chattanooga,0.975
+2022-1397-1255,Tennessee,Longwood,0.985
+2022-1397-1174,Tennessee,Delaware,1.0
+2022-1397-1460,Tennessee,Wright St,0.99
+2022-1397-1136,Tennessee,Bryant,1.0
+2022-1397-1211,Tennessee,Gonzaga,0.77
+2022-1397-1181,Tennessee,Duke,0.73
+2022-1397-1403,Tennessee,Texas Tech,0.81
+2022-1397-1116,Tennessee,Arkansas,0.91
+2022-1397-1163,Tennessee,Connecticut,0.79
+2022-1397-1104,Tennessee,Alabama,0.815
+2022-1397-1277,Tennessee,Michigan St,0.955
+2022-1397-1129,Tennessee,Boise St,0.945
+2022-1397-1272,Tennessee,Memphis,0.78
+2022-1397-1172,Tennessee,Davidson,0.83
+2022-1397-1353,Tennessee,Rutgers,0.995
+2022-1397-1323,Tennessee,Notre Dame,0.99
+2022-1397-1308,Tennessee,New Mexico St,0.995
+2022-1397-1436,Tennessee,Vermont,0.98
+2022-1397-1286,Tennessee,Montana St,1.0
+2022-1397-1168,Tennessee,CS Fullerton,1.0
+2022-1397-1209,Tennessee,Georgia St,1.0
+2022-1228-1222,Illinois,Houston,0.81
+2022-1228-1161,Illinois,Colorado St,0.88
+2022-1228-1326,Illinois,Ohio St,0.86
+2022-1228-1371,Illinois,Seton Hall,0.935
+2022-1228-1395,Illinois,TCU,0.965
+2022-1228-1260,Illinois,Loyola-Chicago,0.73
+2022-1228-1276,Illinois,Michigan,0.89
+2022-1228-1412,Illinois,UAB,0.93
+2022-1228-1151,Illinois,Chattanooga,0.99
+2022-1228-1255,Illinois,Longwood,1.0
+2022-1228-1174,Illinois,Delaware,0.99
+2022-1228-1460,Illinois,Wright St,1.0
+2022-1228-1136,Illinois,Bryant,1.0
+2022-1228-1211,Illinois,Gonzaga,0.6
+2022-1228-1181,Illinois,Duke,0.675
+2022-1228-1403,Illinois,Texas Tech,0.615
+2022-1228-1116,Illinois,Arkansas,0.735
+2022-1228-1163,Illinois,Connecticut,0.655
+2022-1228-1104,Illinois,Alabama,0.805
+2022-1228-1277,Illinois,Michigan St,0.925
+2022-1228-1129,Illinois,Boise St,0.885
+2022-1228-1272,Illinois,Memphis,0.6
+2022-1228-1172,Illinois,Davidson,0.86
+2022-1228-1353,Illinois,Rutgers,0.975
+2022-1228-1323,Illinois,Notre Dame,0.93
+2022-1228-1308,Illinois,New Mexico St,0.99
+2022-1228-1436,Illinois,Vermont,0.945
+2022-1228-1286,Illinois,Montana St,0.995
+2022-1228-1168,Illinois,CS Fullerton,1.0
+2022-1228-1209,Illinois,Georgia St,1.0
+2022-1222-1161,Houston,Colorado St,0.965
+2022-1222-1326,Houston,Ohio St,0.94
+2022-1222-1371,Houston,Seton Hall,0.98
+2022-1222-1395,Houston,TCU,0.98
+2022-1222-1260,Houston,Loyola-Chicago,0.915
+2022-1222-1276,Houston,Michigan,0.955
+2022-1222-1412,Houston,UAB,0.995
+2022-1222-1151,Houston,Chattanooga,1.0
+2022-1222-1255,Houston,Longwood,1.0
+2022-1222-1174,Houston,Delaware,1.0
+2022-1222-1460,Houston,Wright St,1.0
+2022-1222-1136,Houston,Bryant,0.99
+2022-1222-1211,Houston,Gonzaga,0.8
+2022-1222-1181,Houston,Duke,0.575
+2022-1222-1403,Houston,Texas Tech,0.765
+2022-1222-1116,Houston,Arkansas,0.9
+2022-1222-1163,Houston,Connecticut,0.855
+2022-1222-1104,Houston,Alabama,0.965
+2022-1222-1277,Houston,Michigan St,0.975
+2022-1222-1129,Houston,Boise St,0.97
+2022-1222-1272,Houston,Memphis,0.78
+2022-1222-1172,Houston,Davidson,0.975
+2022-1222-1353,Houston,Rutgers,1.0
+2022-1222-1323,Houston,Notre Dame,1.0
+2022-1222-1308,Houston,New Mexico St,1.0
+2022-1222-1436,Houston,Vermont,1.0
+2022-1222-1286,Houston,Montana St,1.0
+2022-1222-1168,Houston,CS Fullerton,1.0
+2022-1222-1209,Houston,Georgia St,1.0
+2022-1161-1326,Colorado St,Ohio St,0.485
+2022-1161-1371,Colorado St,Seton Hall,0.465
+2022-1161-1395,Colorado St,TCU,0.49
+2022-1161-1260,Colorado St,Loyola-Chicago,0.405
+2022-1161-1276,Colorado St,Michigan,0.52
+2022-1161-1412,Colorado St,UAB,0.755
+2022-1161-1151,Colorado St,Chattanooga,0.915
+2022-1161-1255,Colorado St,Longwood,0.97
+2022-1161-1174,Colorado St,Delaware,0.945
+2022-1161-1460,Colorado St,Wright St,0.98
+2022-1161-1136,Colorado St,Bryant,0.945
+2022-1161-1211,Colorado St,Gonzaga,0.65
+2022-1161-1181,Colorado St,Duke,0.76
+2022-1161-1403,Colorado St,Texas Tech,0.52
+2022-1161-1116,Colorado St,Arkansas,0.695
+2022-1161-1163,Colorado St,Connecticut,0.455
+2022-1161-1104,Colorado St,Alabama,0.675
+2022-1161-1277,Colorado St,Michigan St,0.56
+2022-1161-1129,Colorado St,Boise St,0.415
+2022-1161-1272,Colorado St,Memphis,0.495
+2022-1161-1172,Colorado St,Davidson,0.7
+2022-1161-1353,Colorado St,Rutgers,0.86
+2022-1161-1323,Colorado St,Notre Dame,0.68
+2022-1161-1308,Colorado St,New Mexico St,0.87
+2022-1161-1436,Colorado St,Vermont,0.715
+2022-1161-1286,Colorado St,Montana St,0.98
+2022-1161-1168,Colorado St,CS Fullerton,0.97
+2022-1161-1209,Colorado St,Georgia St,0.98
+2022-1326-1371,Ohio St,Seton Hall,0.635
+2022-1326-1395,Ohio St,TCU,0.715
+2022-1326-1260,Ohio St,Loyola-Chicago,0.53
+2022-1326-1276,Ohio St,Michigan,0.555
+2022-1326-1412,Ohio St,UAB,0.66
+2022-1326-1151,Ohio St,Chattanooga,0.87
+2022-1326-1255,Ohio St,Longwood,0.97
+2022-1326-1174,Ohio St,Delaware,0.97
+2022-1326-1460,Ohio St,Wright St,0.96
+2022-1326-1136,Ohio St,Bryant,0.935
+2022-1326-1211,Ohio St,Gonzaga,0.65
+2022-1326-1181,Ohio St,Duke,0.74
+2022-1326-1403,Ohio St,Texas Tech,0.525
+2022-1326-1116,Ohio St,Arkansas,0.695
+2022-1326-1163,Ohio St,Connecticut,0.365
+2022-1326-1104,Ohio St,Alabama,0.64
+2022-1326-1277,Ohio St,Michigan St,0.685
+2022-1326-1129,Ohio St,Boise St,0.635
+2022-1326-1272,Ohio St,Memphis,0.555
+2022-1326-1172,Ohio St,Davidson,0.74
+2022-1326-1353,Ohio St,Rutgers,0.86
+2022-1326-1323,Ohio St,Notre Dame,0.68
+2022-1326-1308,Ohio St,New Mexico St,0.895
+2022-1326-1436,Ohio St,Vermont,0.6
+2022-1326-1286,Ohio St,Montana St,0.975
+2022-1326-1168,Ohio St,CS Fullerton,0.975
+2022-1326-1209,Ohio St,Georgia St,0.95
+2022-1371-1395,Seton Hall,TCU,0.7
+2022-1371-1260,Seton Hall,Loyola-Chicago,0.625
+2022-1371-1276,Seton Hall,Michigan,0.645
+2022-1371-1412,Seton Hall,UAB,0.58
+2022-1371-1151,Seton Hall,Chattanooga,0.825
+2022-1371-1255,Seton Hall,Longwood,0.915
+2022-1371-1174,Seton Hall,Delaware,0.855
+2022-1371-1460,Seton Hall,Wright St,0.93
+2022-1371-1136,Seton Hall,Bryant,0.95
+2022-1371-1211,Seton Hall,Gonzaga,0.695
+2022-1371-1181,Seton Hall,Duke,0.755
+2022-1371-1403,Seton Hall,Texas Tech,0.68
+2022-1371-1116,Seton Hall,Arkansas,0.645
+2022-1371-1163,Seton Hall,Connecticut,0.625
+2022-1371-1104,Seton Hall,Alabama,0.68
+2022-1371-1277,Seton Hall,Michigan St,0.535
+2022-1371-1129,Seton Hall,Boise St,0.66
+2022-1371-1272,Seton Hall,Memphis,0.44
+2022-1371-1172,Seton Hall,Davidson,0.61
+2022-1371-1353,Seton Hall,Rutgers,0.915
+2022-1371-1323,Seton Hall,Notre Dame,0.65
+2022-1371-1308,Seton Hall,New Mexico St,0.835
+2022-1371-1436,Seton Hall,Vermont,0.73
+2022-1371-1286,Seton Hall,Montana St,0.96
+2022-1371-1168,Seton Hall,CS Fullerton,0.935
+2022-1371-1209,Seton Hall,Georgia St,0.975
+2022-1395-1260,TCU,Loyola-Chicago,0.59
+2022-1395-1276,TCU,Michigan,0.69
+2022-1395-1412,TCU,UAB,0.595
+2022-1395-1151,TCU,Chattanooga,0.715
+2022-1395-1255,TCU,Longwood,0.935
+2022-1395-1174,TCU,Delaware,0.935
+2022-1395-1460,TCU,Wright St,0.96
+2022-1395-1136,TCU,Bryant,0.97
+2022-1395-1211,TCU,Gonzaga,0.61
+2022-1395-1181,TCU,Duke,0.66
+2022-1395-1403,TCU,Texas Tech,0.7
+2022-1395-1116,TCU,Arkansas,0.78
+2022-1395-1163,TCU,Connecticut,0.54
+2022-1395-1104,TCU,Alabama,0.835
+2022-1395-1277,TCU,Michigan St,0.57
+2022-1395-1129,TCU,Boise St,0.58
+2022-1395-1272,TCU,Memphis,0.78
+2022-1395-1172,TCU,Davidson,0.62
+2022-1395-1353,TCU,Rutgers,0.855
+2022-1395-1323,TCU,Notre Dame,0.6
+2022-1395-1308,TCU,New Mexico St,0.91
+2022-1395-1436,TCU,Vermont,0.635
+2022-1395-1286,TCU,Montana St,0.96
+2022-1395-1168,TCU,CS Fullerton,0.955
+2022-1395-1209,TCU,Georgia St,0.79
+2022-1260-1276,Loyola-Chicago,Michigan,0.76
+2022-1260-1412,Loyola-Chicago,UAB,0.9
+2022-1260-1151,Loyola-Chicago,Chattanooga,0.9
+2022-1260-1255,Loyola-Chicago,Longwood,1.0
+2022-1260-1174,Loyola-Chicago,Delaware,0.99
+2022-1260-1460,Loyola-Chicago,Wright St,0.97
+2022-1260-1136,Loyola-Chicago,Bryant,0.99
+2022-1260-1211,Loyola-Chicago,Gonzaga,0.695
+2022-1260-1181,Loyola-Chicago,Duke,0.75
+2022-1260-1403,Loyola-Chicago,Texas Tech,0.675
+2022-1260-1116,Loyola-Chicago,Arkansas,0.695
+2022-1260-1163,Loyola-Chicago,Connecticut,0.44
+2022-1260-1104,Loyola-Chicago,Alabama,0.775
+2022-1260-1277,Loyola-Chicago,Michigan St,0.715
+2022-1260-1129,Loyola-Chicago,Boise St,0.63
+2022-1260-1272,Loyola-Chicago,Memphis,0.735
+2022-1260-1172,Loyola-Chicago,Davidson,0.6
+2022-1260-1353,Loyola-Chicago,Rutgers,0.885
+2022-1260-1323,Loyola-Chicago,Notre Dame,0.855
+2022-1260-1308,Loyola-Chicago,New Mexico St,0.95
+2022-1260-1436,Loyola-Chicago,Vermont,0.88
+2022-1260-1286,Loyola-Chicago,Montana St,0.99
+2022-1260-1168,Loyola-Chicago,CS Fullerton,0.99
+2022-1260-1209,Loyola-Chicago,Georgia St,0.985
+2022-1276-1412,Michigan,UAB,0.72
+2022-1276-1151,Michigan,Chattanooga,0.91
+2022-1276-1255,Michigan,Longwood,0.97
+2022-1276-1174,Michigan,Delaware,0.955
+2022-1276-1460,Michigan,Wright St,0.98
+2022-1276-1136,Michigan,Bryant,0.95
+2022-1276-1211,Michigan,Gonzaga,0.695
+2022-1276-1181,Michigan,Duke,0.735
+2022-1276-1403,Michigan,Texas Tech,0.555
+2022-1276-1116,Michigan,Arkansas,0.635
+2022-1276-1163,Michigan,Connecticut,0.48
+2022-1276-1104,Michigan,Alabama,0.765
+2022-1276-1277,Michigan,Michigan St,0.68
+2022-1276-1129,Michigan,Boise St,0.685
+2022-1276-1272,Michigan,Memphis,0.47
+2022-1276-1172,Michigan,Davidson,0.685
+2022-1276-1353,Michigan,Rutgers,0.89
+2022-1276-1323,Michigan,Notre Dame,0.77
+2022-1276-1308,Michigan,New Mexico St,0.875
+2022-1276-1436,Michigan,Vermont,0.77
+2022-1276-1286,Michigan,Montana St,0.975
+2022-1276-1168,Michigan,CS Fullerton,0.98
+2022-1276-1209,Michigan,Georgia St,0.975
+2022-1412-1151,UAB,Chattanooga,0.815
+2022-1412-1255,UAB,Longwood,0.935
+2022-1412-1174,UAB,Delaware,0.92
+2022-1412-1460,UAB,Wright St,0.895
+2022-1412-1136,UAB,Bryant,0.935
+2022-1412-1211,UAB,Gonzaga,0.67
+2022-1412-1181,UAB,Duke,0.785
+2022-1412-1403,UAB,Texas Tech,0.63
+2022-1412-1116,UAB,Arkansas,0.535
+2022-1412-1163,UAB,Connecticut,0.615
+2022-1412-1104,UAB,Alabama,0.495
+2022-1412-1277,UAB,Michigan St,0.35
+2022-1412-1129,UAB,Boise St,0.55
+2022-1412-1272,UAB,Memphis,0.32
+2022-1412-1172,UAB,Davidson,0.715
+2022-1412-1353,UAB,Rutgers,0.785
+2022-1412-1323,UAB,Notre Dame,0.64
+2022-1412-1308,UAB,New Mexico St,0.835
+2022-1412-1436,UAB,Vermont,0.88
+2022-1412-1286,UAB,Montana St,0.94
+2022-1412-1168,UAB,CS Fullerton,0.93
+2022-1412-1209,UAB,Georgia St,0.975
+2022-1151-1255,Chattanooga,Longwood,0.78
+2022-1151-1174,Chattanooga,Delaware,0.69
+2022-1151-1460,Chattanooga,Wright St,0.89
+2022-1151-1136,Chattanooga,Bryant,0.89
+2022-1151-1211,Chattanooga,Gonzaga,0.685
+2022-1151-1181,Chattanooga,Duke,0.745
+2022-1151-1403,Chattanooga,Texas Tech,0.54
+2022-1151-1116,Chattanooga,Arkansas,0.71
+2022-1151-1163,Chattanooga,Connecticut,0.655
+2022-1151-1104,Chattanooga,Alabama,0.645
+2022-1151-1277,Chattanooga,Michigan St,0.42
+2022-1151-1129,Chattanooga,Boise St,0.455
+2022-1151-1272,Chattanooga,Memphis,0.535
+2022-1151-1172,Chattanooga,Davidson,0.725
+2022-1151-1353,Chattanooga,Rutgers,0.31
+2022-1151-1323,Chattanooga,Notre Dame,0.52
+2022-1151-1308,Chattanooga,New Mexico St,0.39
+2022-1151-1436,Chattanooga,Vermont,0.37
+2022-1151-1286,Chattanooga,Montana St,0.875
+2022-1151-1168,Chattanooga,CS Fullerton,0.765
+2022-1151-1209,Chattanooga,Georgia St,0.855
+2022-1255-1174,Longwood,Delaware,0.44
+2022-1255-1460,Longwood,Wright St,0.62
+2022-1255-1136,Longwood,Bryant,0.76
+2022-1255-1211,Longwood,Gonzaga,0.705
+2022-1255-1181,Longwood,Duke,0.68
+2022-1255-1403,Longwood,Texas Tech,0.625
+2022-1255-1116,Longwood,Arkansas,0.645
+2022-1255-1163,Longwood,Connecticut,0.64
+2022-1255-1104,Longwood,Alabama,0.49
+2022-1255-1277,Longwood,Michigan St,0.525
+2022-1255-1129,Longwood,Boise St,0.745
+2022-1255-1272,Longwood,Memphis,0.525
+2022-1255-1172,Longwood,Davidson,0.62
+2022-1255-1353,Longwood,Rutgers,0.58
+2022-1255-1323,Longwood,Notre Dame,0.555
+2022-1255-1308,Longwood,New Mexico St,0.48
+2022-1255-1436,Longwood,Vermont,0.645
+2022-1255-1286,Longwood,Montana St,0.435
+2022-1255-1168,Longwood,CS Fullerton,0.445
+2022-1255-1209,Longwood,Georgia St,0.58
+2022-1174-1460,Delaware,Wright St,0.56
+2022-1174-1136,Delaware,Bryant,0.755
+2022-1174-1211,Delaware,Gonzaga,0.7
+2022-1174-1181,Delaware,Duke,0.645
+2022-1174-1403,Delaware,Texas Tech,0.67
+2022-1174-1116,Delaware,Arkansas,0.65
+2022-1174-1163,Delaware,Connecticut,0.665
+2022-1174-1104,Delaware,Alabama,0.53
+2022-1174-1277,Delaware,Michigan St,0.54
+2022-1174-1129,Delaware,Boise St,0.725
+2022-1174-1272,Delaware,Memphis,0.565
+2022-1174-1172,Delaware,Davidson,0.615
+2022-1174-1353,Delaware,Rutgers,0.595
+2022-1174-1323,Delaware,Notre Dame,0.6
+2022-1174-1308,Delaware,New Mexico St,0.585
+2022-1174-1436,Delaware,Vermont,0.645
+2022-1174-1286,Delaware,Montana St,0.46
+2022-1174-1168,Delaware,CS Fullerton,0.475
+2022-1174-1209,Delaware,Georgia St,0.6
+2022-1460-1136,Wright St,Bryant,0.595
+2022-1460-1211,Wright St,Gonzaga,0.72
+2022-1460-1181,Wright St,Duke,0.715
+2022-1460-1403,Wright St,Texas Tech,0.705
+2022-1460-1116,Wright St,Arkansas,0.67
+2022-1460-1163,Wright St,Connecticut,0.655
+2022-1460-1104,Wright St,Alabama,0.57
+2022-1460-1277,Wright St,Michigan St,0.53
+2022-1460-1129,Wright St,Boise St,0.65
+2022-1460-1272,Wright St,Memphis,0.555
+2022-1460-1172,Wright St,Davidson,0.565
+2022-1460-1353,Wright St,Rutgers,0.6
+2022-1460-1323,Wright St,Notre Dame,0.625
+2022-1460-1308,Wright St,New Mexico St,0.61
+2022-1460-1436,Wright St,Vermont,0.635
+2022-1460-1286,Wright St,Montana St,0.52
+2022-1460-1168,Wright St,CS Fullerton,0.51
+2022-1460-1209,Wright St,Georgia St,0.555
+2022-1136-1211,Bryant,Gonzaga,0.725
+2022-1136-1181,Bryant,Duke,0.655
+2022-1136-1403,Bryant,Texas Tech,0.675
+2022-1136-1116,Bryant,Arkansas,0.685
+2022-1136-1163,Bryant,Connecticut,0.665
+2022-1136-1104,Bryant,Alabama,0.54
+2022-1136-1277,Bryant,Michigan St,0.54
+2022-1136-1129,Bryant,Boise St,0.645
+2022-1136-1272,Bryant,Memphis,0.57
+2022-1136-1172,Bryant,Davidson,0.515
+2022-1136-1353,Bryant,Rutgers,0.55
+2022-1136-1323,Bryant,Notre Dame,0.57
+2022-1136-1308,Bryant,New Mexico St,0.6
+2022-1136-1436,Bryant,Vermont,0.625
+2022-1136-1286,Bryant,Montana St,0.615
+2022-1136-1168,Bryant,CS Fullerton,0.64
+2022-1136-1209,Bryant,Georgia St,0.595
+2022-1211-1181,Gonzaga,Duke,0.865
+2022-1211-1403,Gonzaga,Texas Tech,0.735
+2022-1211-1116,Gonzaga,Arkansas,0.885
+2022-1211-1163,Gonzaga,Connecticut,0.94
+2022-1211-1104,Gonzaga,Alabama,0.97
+2022-1211-1277,Gonzaga,Michigan St,1.0
+2022-1211-1129,Gonzaga,Boise St,0.93
+2022-1211-1272,Gonzaga,Memphis,0.85
+2022-1211-1172,Gonzaga,Davidson,0.965
+2022-1211-1353,Gonzaga,Rutgers,0.995
+2022-1211-1323,Gonzaga,Notre Dame,1.0
+2022-1211-1308,Gonzaga,New Mexico St,0.995
+2022-1211-1436,Gonzaga,Vermont,1.0
+2022-1211-1286,Gonzaga,Montana St,1.0
+2022-1211-1168,Gonzaga,CS Fullerton,1.0
+2022-1211-1209,Gonzaga,Georgia St,0.995
+2022-1181-1403,Duke,Texas Tech,0.47
+2022-1181-1116,Duke,Arkansas,0.8
+2022-1181-1163,Duke,Connecticut,0.81
+2022-1181-1104,Duke,Alabama,0.87
+2022-1181-1277,Duke,Michigan St,0.925
+2022-1181-1129,Duke,Boise St,0.89
+2022-1181-1272,Duke,Memphis,0.695
+2022-1181-1172,Duke,Davidson,0.935
+2022-1181-1353,Duke,Rutgers,0.98
+2022-1181-1323,Duke,Notre Dame,0.965
+2022-1181-1308,Duke,New Mexico St,0.905
+2022-1181-1436,Duke,Vermont,0.99
+2022-1181-1286,Duke,Montana St,1.0
+2022-1181-1168,Duke,CS Fullerton,1.0
+2022-1181-1209,Duke,Georgia St,1.0
+2022-1403-1116,Texas Tech,Arkansas,0.895
+2022-1403-1163,Texas Tech,Connecticut,0.66
+2022-1403-1104,Texas Tech,Alabama,0.78
+2022-1403-1277,Texas Tech,Michigan St,0.93
+2022-1403-1129,Texas Tech,Boise St,0.93
+2022-1403-1272,Texas Tech,Memphis,0.935
+2022-1403-1172,Texas Tech,Davidson,0.67
+2022-1403-1353,Texas Tech,Rutgers,0.98
+2022-1403-1323,Texas Tech,Notre Dame,0.83
+2022-1403-1308,Texas Tech,New Mexico St,0.975
+2022-1403-1436,Texas Tech,Vermont,0.82
+2022-1403-1286,Texas Tech,Montana St,1.0
+2022-1403-1168,Texas Tech,CS Fullerton,0.98
+2022-1403-1209,Texas Tech,Georgia St,0.99
+2022-1116-1163,Arkansas,Connecticut,0.775
+2022-1116-1104,Arkansas,Alabama,0.56
+2022-1116-1277,Arkansas,Michigan St,0.865
+2022-1116-1129,Arkansas,Boise St,0.845
+2022-1116-1272,Arkansas,Memphis,0.47
+2022-1116-1172,Arkansas,Davidson,0.805
+2022-1116-1353,Arkansas,Rutgers,0.955
+2022-1116-1323,Arkansas,Notre Dame,0.92
+2022-1116-1308,Arkansas,New Mexico St,0.995
+2022-1116-1436,Arkansas,Vermont,0.915
+2022-1116-1286,Arkansas,Montana St,0.995
+2022-1116-1168,Arkansas,CS Fullerton,0.995
+2022-1116-1209,Arkansas,Georgia St,0.995
+2022-1163-1104,Connecticut,Alabama,0.825
+2022-1163-1277,Connecticut,Michigan St,0.91
+2022-1163-1129,Connecticut,Boise St,0.845
+2022-1163-1272,Connecticut,Memphis,0.485
+2022-1163-1172,Connecticut,Davidson,0.85
+2022-1163-1353,Connecticut,Rutgers,0.965
+2022-1163-1323,Connecticut,Notre Dame,0.945
+2022-1163-1308,Connecticut,New Mexico St,0.955
+2022-1163-1436,Connecticut,Vermont,0.96
+2022-1163-1286,Connecticut,Montana St,1.0
+2022-1163-1168,Connecticut,CS Fullerton,0.995
+2022-1163-1209,Connecticut,Georgia St,0.995
+2022-1104-1277,Alabama,Michigan St,0.83
+2022-1104-1129,Alabama,Boise St,0.835
+2022-1104-1272,Alabama,Memphis,0.765
+2022-1104-1172,Alabama,Davidson,0.85
+2022-1104-1353,Alabama,Rutgers,0.86
+2022-1104-1323,Alabama,Notre Dame,0.86
+2022-1104-1308,Alabama,New Mexico St,0.955
+2022-1104-1436,Alabama,Vermont,0.845
+2022-1104-1286,Alabama,Montana St,0.98
+2022-1104-1168,Alabama,CS Fullerton,0.955
+2022-1104-1209,Alabama,Georgia St,0.96
+2022-1277-1129,Michigan St,Boise St,0.67
+2022-1277-1272,Michigan St,Memphis,0.39
+2022-1277-1172,Michigan St,Davidson,0.675
+2022-1277-1353,Michigan St,Rutgers,0.87
+2022-1277-1323,Michigan St,Notre Dame,0.715
+2022-1277-1308,Michigan St,New Mexico St,0.905
+2022-1277-1436,Michigan St,Vermont,0.82
+2022-1277-1286,Michigan St,Montana St,0.965
+2022-1277-1168,Michigan St,CS Fullerton,0.96
+2022-1277-1209,Michigan St,Georgia St,0.955
+2022-1129-1272,Boise St,Memphis,0.7
+2022-1129-1172,Boise St,Davidson,0.54
+2022-1129-1353,Boise St,Rutgers,0.92
+2022-1129-1323,Boise St,Notre Dame,0.78
+2022-1129-1308,Boise St,New Mexico St,0.885
+2022-1129-1436,Boise St,Vermont,0.815
+2022-1129-1286,Boise St,Montana St,0.98
+2022-1129-1168,Boise St,CS Fullerton,0.965
+2022-1129-1209,Boise St,Georgia St,0.975
+2022-1272-1172,Memphis,Davidson,0.7
+2022-1272-1353,Memphis,Rutgers,0.695
+2022-1272-1323,Memphis,Notre Dame,0.73
+2022-1272-1308,Memphis,New Mexico St,0.875
+2022-1272-1436,Memphis,Vermont,0.745
+2022-1272-1286,Memphis,Montana St,0.96
+2022-1272-1168,Memphis,CS Fullerton,0.89
+2022-1272-1209,Memphis,Georgia St,0.78
+2022-1172-1353,Davidson,Rutgers,0.71
+2022-1172-1323,Davidson,Notre Dame,0.425
+2022-1172-1308,Davidson,New Mexico St,0.84
+2022-1172-1436,Davidson,Vermont,0.62
+2022-1172-1286,Davidson,Montana St,0.95
+2022-1172-1168,Davidson,CS Fullerton,0.965
+2022-1172-1209,Davidson,Georgia St,0.915
+2022-1353-1323,Rutgers,Notre Dame,0.695
+2022-1353-1308,Rutgers,New Mexico St,0.48
+2022-1353-1436,Rutgers,Vermont,0.67
+2022-1353-1286,Rutgers,Montana St,0.83
+2022-1353-1168,Rutgers,CS Fullerton,0.815
+2022-1353-1209,Rutgers,Georgia St,0.91
+2022-1323-1308,Notre Dame,New Mexico St,0.735
+2022-1323-1436,Notre Dame,Vermont,0.815
+2022-1323-1286,Notre Dame,Montana St,0.96
+2022-1323-1168,Notre Dame,CS Fullerton,0.945
+2022-1323-1209,Notre Dame,Georgia St,0.975
+2022-1308-1436,New Mexico St,Vermont,0.495
+2022-1308-1286,New Mexico St,Montana St,0.735
+2022-1308-1168,New Mexico St,CS Fullerton,0.745
+2022-1308-1209,New Mexico St,Georgia St,0.835
+2022-1436-1286,Vermont,Montana St,0.895
+2022-1436-1168,Vermont,CS Fullerton,0.83
+2022-1436-1209,Vermont,Georgia St,0.935
+2022-1286-1168,Montana St,CS Fullerton,0.42
+2022-1286-1209,Montana St,Georgia St,0.52
+2022-1168-1209,CS Fullerton,Georgia St,0.57
